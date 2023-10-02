@@ -8,7 +8,7 @@ A study in understanding unemployment stats in Singapore and analyzing if the fo
 - Training and qualifications within the workforce
 - Any other factors?
 
-<b> Step 1: Data Extraction </b>
+<b> Step 1: Data Extraction </b> <br>
 Source: https://www.singstat.gov.sg/find-data/search-by-theme/economy/labour-employment-wages-and-productivity/latest-data
 
 - Files were extracted in .xlsx format and studied using Google Sheets.

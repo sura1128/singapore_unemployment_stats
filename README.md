@@ -16,4 +16,5 @@ Source: https://www.singstat.gov.sg/find-data/search-by-theme/economy/labour-emp
 - Downloaded all of that to csv files
 
 <b> Step 2: Data Modelling </b>
-- WIP: writing a python script to trawl through the data and transpose, flatten and modify the tables so that they can be visualized.
+- Wrote a python script to trawl through the data and reshape the tables so that they can be visualized better on Tableau.
+- Need to run this through all the CSV files.

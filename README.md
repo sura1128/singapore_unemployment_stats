@@ -17,4 +17,6 @@ Source: https://www.singstat.gov.sg/find-data/search-by-theme/economy/labour-emp
 
 <b> Step 2: Data Modelling </b>
 - Wrote a python script to trawl through the data and reshape the tables so that they can be visualized better on Tableau.
-- Need to run this through all the CSV files.
+- Run through all CSV files.
+
+Data Visualization done on Tableau: https://public.tableau.com/app/profile/suranjana.sengupta/viz/SingaporeUnemploymentStatistics/introunemploymentrate

@@ -1,0 +1,508 @@
+Year,Industry,Employed
+2022,Manufacturing,-3.1
+2022,Construction,-7.3
+2022,Wholesale Trade,3.4
+2022,Retail Trade,6.7
+2022,Transportation & Storage,1.1
+2022,Accommodation,-7.8
+2022,Food & Beverage Services,14.5
+2022,Information & Communications,-1.1
+2022,Finance & Insurance,-3.5
+2022,Real Estate,13.6
+2022,Professional Services,1.7
+2022,Administrative & Support Services,6.4
+2022,Other Services Industries,1.9
+2021,Manufacturing,19.8
+2021,Construction,29.8
+2021,Wholesale Trade,12.9
+2021,Retail Trade,13.8
+2021,Transportation & Storage,11.6
+2021,Accommodation,8.3
+2021,Food & Beverage Services,0.1
+2021,Information & Communications,7.2
+2021,Finance & Insurance,6.8
+2021,Real Estate,24.8
+2021,Professional Services,3.5
+2021,Administrative & Support Services,-9.0
+2021,Other Services Industries,4.9
+2020,Manufacturing,10.9
+2020,Construction,-39.5
+2020,Wholesale Trade,3.9
+2020,Retail Trade,-16.0
+2020,Transportation & Storage,-15.2
+2020,Accommodation,-1.5
+2020,Food & Beverage Services,-26.1
+2020,Information & Communications,8.2
+2020,Finance & Insurance,4.1
+2020,Real Estate,-7.3
+2020,Professional Services,-11.1
+2020,Administrative & Support Services,-15.2
+2020,Other Services Industries,-7.5
+2019,Manufacturing,-1.9
+2019,Construction,-0.8
+2019,Wholesale Trade,1.9
+2019,Retail Trade,-2.4
+2019,Transportation & Storage,-1.3
+2019,Accommodation,-0.8
+2019,Food & Beverage Services,-2.4
+2019,Information & Communications,6.4
+2019,Finance & Insurance,5.2
+2019,Real Estate,-0.6
+2019,Professional Services,3.2
+2019,Administrative & Support Services,-19.2
+2019,Other Services Industries,0.4
+2018,Manufacturing,9.3
+2018,Construction,4.7
+2018,Wholesale Trade,2.5
+2018,Retail Trade,1.7
+2018,Transportation & Storage,-2.1
+2018,Accommodation,6.8
+2018,Food & Beverage Services,-0.6
+2018,Information & Communications,1.6
+2018,Finance & Insurance,1.5
+2018,Real Estate,0.9
+2018,Professional Services,-0.3
+2018,Administrative & Support Services,0.5
+2018,Other Services Industries,0.0
+2017,Manufacturing,13.9
+2017,Construction,2.1
+2017,Wholesale Trade,2.3
+2017,Retail Trade,1.7
+2017,Transportation & Storage,3.4
+2017,Accommodation,4.2
+2017,Food & Beverage Services,-3.0
+2017,Information & Communications,2.7
+2017,Finance & Insurance,4.1
+2017,Real Estate,-7.0
+2017,Professional Services,5.0
+2017,Administrative & Support Services,1.9
+2017,Other Services Industries,0.6
+2016,Manufacturing,7.0
+2016,Construction,-1.3
+2016,Wholesale Trade,0.3
+2016,Retail Trade,4.2
+2016,Transportation & Storage,1.4
+2016,Accommodation,0.1
+2016,Food & Beverage Services,0.1
+2016,Information & Communications,4.5
+2016,Finance & Insurance,-0.9
+2016,Real Estate,6.1
+2016,Professional Services,0.9
+2016,Administrative & Support Services,9.9
+2016,Other Services Industries,0.1
+2015,Manufacturing,-2.9
+2015,Construction,4.4
+2015,Wholesale Trade,1.7
+2015,Retail Trade,5.4
+2015,Transportation & Storage,0.5
+2015,Accommodation,0.6
+2015,Food & Beverage Services,-3.7
+2015,Information & Communications,-4.5
+2015,Finance & Insurance,1.5
+2015,Real Estate,3.9
+2015,Professional Services,4.0
+2015,Administrative & Support Services,8.4
+2015,Other Services Industries,-1.6
+2014,Manufacturing,2.6
+2014,Construction,3.0
+2014,Wholesale Trade,1.7
+2014,Retail Trade,-1.0
+2014,Transportation & Storage,-1.2
+2014,Accommodation,-1.1
+2014,Food & Beverage Services,-1.3
+2014,Information & Communications,2.4
+2014,Finance & Insurance,4.6
+2014,Real Estate,-5.1
+2014,Professional Services,-5.5
+2014,Administrative & Support Services,4.5
+2014,Other Services Industries,-0.8
+2013,Manufacturing,0.2
+2013,Construction,-6.6
+2013,Wholesale Trade,3.6
+2013,Retail Trade,-1.6
+2013,Transportation & Storage,-1.0
+2013,Accommodation,1.1
+2013,Food & Beverage Services,1.4
+2013,Information & Communications,3.1
+2013,Finance & Insurance,13.7
+2013,Real Estate,8.7
+2013,Professional Services,-5.9
+2013,Administrative & Support Services,5.1
+2013,Other Services Industries,-1.2
+2012,Manufacturing,-0.7
+2012,Construction,1.8
+2012,Wholesale Trade,5.0
+2012,Retail Trade,-1.8
+2012,Transportation & Storage,0.7
+2012,Accommodation,-3.5
+2012,Food & Beverage Services,5.4
+2012,Information & Communications,2.5
+2012,Finance & Insurance,1.7
+2012,Real Estate,-3.3
+2012,Professional Services,-0.3
+2012,Administrative & Support Services,2.3
+2012,Other Services Industries,-0.3
+2011,Manufacturing,7.4
+2011,Construction,0.6
+2011,Wholesale Trade,4.6
+2011,Retail Trade,-0.2
+2011,Transportation & Storage,1.3
+2011,Accommodation,8.5
+2011,Food & Beverage Services,2.9
+2011,Information & Communications,-1.8
+2011,Finance & Insurance,1.4
+2011,Real Estate,-0.2
+2011,Professional Services,-4.1
+2011,Administrative & Support Services,16.7
+2011,Other Services Industries,1.0
+2010,Manufacturing,30.4
+2010,Construction,4.4
+2010,Wholesale Trade,15.6
+2010,Retail Trade,-1.7
+2010,Transportation & Storage,4.4
+2010,Accommodation,5.5
+2010,Food & Beverage Services,5.9
+2010,Information & Communications,0.7
+2010,Finance & Insurance,10.1
+2010,Real Estate,7.3
+2010,Professional Services,-1.2
+2010,Administrative & Support Services,6.9
+2010,Other Services Industries,6.7
+2009,Manufacturing,1.9
+2009,Construction,8.5
+2009,Wholesale Trade,0.0
+2009,Retail Trade,0.0
+2009,Transportation & Storage,-9.4
+2009,Accommodation,0.0
+2009,Food & Beverage Services,0.0
+2009,Information & Communications,-3.4
+2009,Finance & Insurance,-2.1
+2009,Real Estate,0.0
+2009,Professional Services,0.0
+2009,Administrative & Support Services,0.0
+2009,Other Services Industries,0.2
+2008,Manufacturing,-11.3
+2008,Construction,2.9
+2008,Wholesale Trade,0.0
+2008,Retail Trade,0.0
+2008,Transportation & Storage,-2.5
+2008,Accommodation,0.0
+2008,Food & Beverage Services,0.0
+2008,Information & Communications,-1.3
+2008,Finance & Insurance,-9.8
+2008,Real Estate,0.0
+2008,Professional Services,0.0
+2008,Administrative & Support Services,0.0
+2008,Other Services Industries,-3.6
+2007,Manufacturing,-3.6
+2007,Construction,7.6
+2007,Wholesale Trade,0.0
+2007,Retail Trade,0.0
+2007,Transportation & Storage,6.9
+2007,Accommodation,0.0
+2007,Food & Beverage Services,0.0
+2007,Information & Communications,-2.9
+2007,Finance & Insurance,0.3
+2007,Real Estate,0.0
+2007,Professional Services,0.0
+2007,Administrative & Support Services,0.0
+2007,Other Services Industries,-2.6
+2006,Manufacturing,3.4
+2006,Construction,1.2
+2006,Wholesale Trade,0.0
+2006,Retail Trade,0.0
+2006,Transportation & Storage,1.1
+2006,Accommodation,0.0
+2006,Food & Beverage Services,0.0
+2006,Information & Communications,-3.6
+2006,Finance & Insurance,3.6
+2006,Real Estate,0.0
+2006,Professional Services,0.0
+2006,Administrative & Support Services,0.0
+2006,Other Services Industries,0.1
+2005,Manufacturing,2.5
+2005,Construction,0.0
+2005,Wholesale Trade,0.0
+2005,Retail Trade,0.0
+2005,Transportation & Storage,3.7
+2005,Accommodation,0.0
+2005,Food & Beverage Services,0.0
+2005,Information & Communications,2.5
+2005,Finance & Insurance,-2.6
+2005,Real Estate,0.0
+2005,Professional Services,0.0
+2005,Administrative & Support Services,0.0
+2005,Other Services Industries,0.6
+2004,Manufacturing,9.4
+2004,Construction,0.1
+2004,Wholesale Trade,0.0
+2004,Retail Trade,0.0
+2004,Transportation & Storage,11.4
+2004,Accommodation,0.0
+2004,Food & Beverage Services,0.0
+2004,Information & Communications,7.6
+2004,Finance & Insurance,2.6
+2004,Real Estate,0.0
+2004,Professional Services,0.0
+2004,Administrative & Support Services,0.0
+2004,Other Services Industries,2.0
+2003,Manufacturing,5.6
+2003,Construction,2.1
+2003,Wholesale Trade,0.0
+2003,Retail Trade,0.0
+2003,Transportation & Storage,-2.1
+2003,Accommodation,0.0
+2003,Food & Beverage Services,0.0
+2003,Information & Communications,9.8
+2003,Finance & Insurance,15.2
+2003,Real Estate,0.0
+2003,Professional Services,0.0
+2003,Administrative & Support Services,0.0
+2003,Other Services Industries,-0.5
+2002,Manufacturing,11.2
+2002,Construction,-3.0
+2002,Wholesale Trade,0.0
+2002,Retail Trade,0.0
+2002,Transportation & Storage,4.2
+2002,Accommodation,0.0
+2002,Food & Beverage Services,0.0
+2002,Information & Communications,9.4
+2002,Finance & Insurance,-0.9
+2002,Real Estate,0.0
+2002,Professional Services,0.0
+2002,Administrative & Support Services,0.0
+2002,Other Services Industries,1.8
+2001,Manufacturing,-13.6
+2001,Construction,2.5
+2001,Wholesale Trade,0.0
+2001,Retail Trade,0.0
+2001,Transportation & Storage,-4.4
+2001,Accommodation,0.0
+2001,Food & Beverage Services,0.0
+2001,Information & Communications,5.9
+2001,Finance & Insurance,2.3
+2001,Real Estate,0.0
+2001,Professional Services,0.0
+2001,Administrative & Support Services,0.0
+2001,Other Services Industries,2.0
+2000,Manufacturing,11.3
+2000,Construction,-1.5
+2000,Wholesale Trade,0.0
+2000,Retail Trade,0.0
+2000,Transportation & Storage,-1.0
+2000,Accommodation,0.0
+2000,Food & Beverage Services,0.0
+2000,Information & Communications,8.2
+2000,Finance & Insurance,-11.3
+2000,Real Estate,0.0
+2000,Professional Services,0.0
+2000,Administrative & Support Services,0.0
+2000,Other Services Industries,3.8
+1999,Manufacturing,17.2
+1999,Construction,-4.2
+1999,Wholesale Trade,0.0
+1999,Retail Trade,0.0
+1999,Transportation & Storage,6.1
+1999,Accommodation,0.0
+1999,Food & Beverage Services,0.0
+1999,Information & Communications,11.2
+1999,Finance & Insurance,-1.1
+1999,Real Estate,0.0
+1999,Professional Services,0.0
+1999,Administrative & Support Services,0.0
+1999,Other Services Industries,0.4
+1998,Manufacturing,1.4
+1998,Construction,-5.3
+1998,Wholesale Trade,0.0
+1998,Retail Trade,0.0
+1998,Transportation & Storage,2.3
+1998,Accommodation,0.0
+1998,Food & Beverage Services,0.0
+1998,Information & Communications,6.5
+1998,Finance & Insurance,-22.8
+1998,Real Estate,0.0
+1998,Professional Services,0.0
+1998,Administrative & Support Services,0.0
+1998,Other Services Industries,-2.4
+1997,Manufacturing,5.3
+1997,Construction,-6.3
+1997,Wholesale Trade,0.0
+1997,Retail Trade,0.0
+1997,Transportation & Storage,2.0
+1997,Accommodation,0.0
+1997,Food & Beverage Services,0.0
+1997,Information & Communications,12.6
+1997,Finance & Insurance,3.5
+1997,Real Estate,0.0
+1997,Professional Services,0.0
+1997,Administrative & Support Services,0.0
+1997,Other Services Industries,0.2
+1996,Manufacturing,2.8
+1996,Construction,-4.9
+1996,Wholesale Trade,0.0
+1996,Retail Trade,0.0
+1996,Transportation & Storage,1.6
+1996,Accommodation,0.0
+1996,Food & Beverage Services,0.0
+1996,Information & Communications,5.1
+1996,Finance & Insurance,6.8
+1996,Real Estate,0.0
+1996,Professional Services,0.0
+1996,Administrative & Support Services,0.0
+1996,Other Services Industries,2.7
+1995,Manufacturing,6.3
+1995,Construction,-4.4
+1995,Wholesale Trade,0.0
+1995,Retail Trade,0.0
+1995,Transportation & Storage,4.5
+1995,Accommodation,0.0
+1995,Food & Beverage Services,0.0
+1995,Information & Communications,9.0
+1995,Finance & Insurance,-11.1
+1995,Real Estate,0.0
+1995,Professional Services,0.0
+1995,Administrative & Support Services,0.0
+1995,Other Services Industries,2.8
+1994,Manufacturing,11.1
+1994,Construction,9.6
+1994,Wholesale Trade,0.0
+1994,Retail Trade,0.0
+1994,Transportation & Storage,6.1
+1994,Accommodation,0.0
+1994,Food & Beverage Services,0.0
+1994,Information & Communications,8.7
+1994,Finance & Insurance,-3.8
+1994,Real Estate,0.0
+1994,Professional Services,0.0
+1994,Administrative & Support Services,0.0
+1994,Other Services Industries,3.1
+1993,Manufacturing,11.9
+1993,Construction,-5.5
+1993,Wholesale Trade,0.0
+1993,Retail Trade,0.0
+1993,Transportation & Storage,4.7
+1993,Accommodation,0.0
+1993,Food & Beverage Services,0.0
+1993,Information & Communications,11.1
+1993,Finance & Insurance,9.9
+1993,Real Estate,0.0
+1993,Professional Services,0.0
+1993,Administrative & Support Services,0.0
+1993,Other Services Industries,3.6
+1992,Manufacturing,2.8
+1992,Construction,9.9
+1992,Wholesale Trade,0.0
+1992,Retail Trade,0.0
+1992,Transportation & Storage,0.7
+1992,Accommodation,0.0
+1992,Food & Beverage Services,0.0
+1992,Information & Communications,10.2
+1992,Finance & Insurance,12.0
+1992,Real Estate,0.0
+1992,Professional Services,0.0
+1992,Administrative & Support Services,0.0
+1992,Other Services Industries,0.4
+1991,Manufacturing,0.0
+1991,Construction,0.0
+1991,Wholesale Trade,0.0
+1991,Retail Trade,0.0
+1991,Transportation & Storage,0.0
+1991,Accommodation,0.0
+1991,Food & Beverage Services,0.0
+1991,Information & Communications,0.0
+1991,Finance & Insurance,0.0
+1991,Real Estate,0.0
+1991,Professional Services,0.0
+1991,Administrative & Support Services,0.0
+1991,Other Services Industries,0.0
+1990,Manufacturing,0.0
+1990,Construction,0.0
+1990,Wholesale Trade,0.0
+1990,Retail Trade,0.0
+1990,Transportation & Storage,0.0
+1990,Accommodation,0.0
+1990,Food & Beverage Services,0.0
+1990,Information & Communications,0.0
+1990,Finance & Insurance,0.0
+1990,Real Estate,0.0
+1990,Professional Services,0.0
+1990,Administrative & Support Services,0.0
+1990,Other Services Industries,0.0
+1989,Manufacturing,0.0
+1989,Construction,0.0
+1989,Wholesale Trade,0.0
+1989,Retail Trade,0.0
+1989,Transportation & Storage,0.0
+1989,Accommodation,0.0
+1989,Food & Beverage Services,0.0
+1989,Information & Communications,0.0
+1989,Finance & Insurance,0.0
+1989,Real Estate,0.0
+1989,Professional Services,0.0
+1989,Administrative & Support Services,0.0
+1989,Other Services Industries,0.0
+1988,Manufacturing,0.0
+1988,Construction,0.0
+1988,Wholesale Trade,0.0
+1988,Retail Trade,0.0
+1988,Transportation & Storage,0.0
+1988,Accommodation,0.0
+1988,Food & Beverage Services,0.0
+1988,Information & Communications,0.0
+1988,Finance & Insurance,0.0
+1988,Real Estate,0.0
+1988,Professional Services,0.0
+1988,Administrative & Support Services,0.0
+1988,Other Services Industries,0.0
+1987,Manufacturing,0.0
+1987,Construction,0.0
+1987,Wholesale Trade,0.0
+1987,Retail Trade,0.0
+1987,Transportation & Storage,0.0
+1987,Accommodation,0.0
+1987,Food & Beverage Services,0.0
+1987,Information & Communications,0.0
+1987,Finance & Insurance,0.0
+1987,Real Estate,0.0
+1987,Professional Services,0.0
+1987,Administrative & Support Services,0.0
+1987,Other Services Industries,0.0
+1986,Manufacturing,0.0
+1986,Construction,0.0
+1986,Wholesale Trade,0.0
+1986,Retail Trade,0.0
+1986,Transportation & Storage,0.0
+1986,Accommodation,0.0
+1986,Food & Beverage Services,0.0
+1986,Information & Communications,0.0
+1986,Finance & Insurance,0.0
+1986,Real Estate,0.0
+1986,Professional Services,0.0
+1986,Administrative & Support Services,0.0
+1986,Other Services Industries,0.0
+1985,Manufacturing,0.0
+1985,Construction,0.0
+1985,Wholesale Trade,0.0
+1985,Retail Trade,0.0
+1985,Transportation & Storage,0.0
+1985,Accommodation,0.0
+1985,Food & Beverage Services,0.0
+1985,Information & Communications,0.0
+1985,Finance & Insurance,0.0
+1985,Real Estate,0.0
+1985,Professional Services,0.0
+1985,Administrative & Support Services,0.0
+1985,Other Services Industries,0.0
+1984,Manufacturing,0.0
+1984,Construction,0.0
+1984,Wholesale Trade,0.0
+1984,Retail Trade,0.0
+1984,Transportation & Storage,0.0
+1984,Accommodation,0.0
+1984,Food & Beverage Services,0.0
+1984,Information & Communications,0.0
+1984,Finance & Insurance,0.0
+1984,Real Estate,0.0
+1984,Professional Services,0.0
+1984,Administrative & Support Services,0.0
+1984,Other Services Industries,0.0

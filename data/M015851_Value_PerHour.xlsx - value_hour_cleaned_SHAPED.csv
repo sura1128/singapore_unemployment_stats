@@ -1,0 +1,183 @@
+Year,Industry,Employed
+2022,Manufacturing,110.9515
+2022,Construction,13.4808
+2022,Wholesale Trade,111.4384
+2022,Retail Trade,21.981
+2022,Transportation & Storage,53.6076
+2022,Accommodation,48.9428
+2022,Food & Beverage Services,9.2029
+2022,Information & Communications,77.4654
+2022,Finance & Insurance,152.3936
+2022,Real Estate,126.7216
+2022,Professional Services,49.7555
+2022,Administrative & Support Services,31.1916
+2022,Other Services Industries,21.8319
+2021,Manufacturing,113.4471
+2021,Construction,14.6179
+2021,Wholesale Trade,106.6952
+2021,Retail Trade,20.4596
+2021,Transportation & Storage,52.7047
+2021,Accommodation,53.5294
+2021,Food & Beverage Services,8.1498
+2021,Information & Communications,78.1413
+2021,Finance & Insurance,156.6073
+2021,Real Estate,109.699
+2021,Professional Services,48.7409
+2021,Administrative & Support Services,29.2767
+2021,Other Services Industries,21.4856
+2020,Manufacturing,100.2086
+2020,Construction,14.323
+2020,Wholesale Trade,95.8401
+2020,Retail Trade,19.1968
+2020,Transportation & Storage,47.9761
+2020,Accommodation,51.866
+2020,Food & Beverage Services,8.2464
+2020,Information & Communications,72.4142
+2020,Finance & Insurance,145.522
+2020,Real Estate,90.8438
+2020,Professional Services,47.1177
+2020,Administrative & Support Services,32.1237
+2020,Other Services Industries,20.4024
+2019,Manufacturing,84.9652
+2019,Construction,18.4285
+2019,Wholesale Trade,91.1457
+2019,Retail Trade,20.9851
+2019,Transportation & Storage,55.1869
+2019,Accommodation,49.5976
+2019,Food & Beverage Services,10.7405
+2019,Information & Communications,66.9235
+2019,Finance & Insurance,140.9276
+2019,Real Estate,98.7944
+2019,Professional Services,52.9054
+2019,Administrative & Support Services,37.3919
+2019,Other Services Industries,21.8886
+2018,Manufacturing,87.6308
+2018,Construction,18.5249
+2018,Wholesale Trade,90.4825
+2018,Retail Trade,21.972
+2018,Transportation & Storage,56.5969
+2018,Accommodation,50.3193
+2018,Food & Beverage Services,10.9711
+2018,Information & Communications,64.4419
+2018,Finance & Insurance,136.2225
+2018,Real Estate,98.7838
+2018,Professional Services,52.3083
+2018,Administrative & Support Services,47.0392
+2018,Other Services Industries,22.0093
+2017,Manufacturing,79.0518
+2017,Construction,17.5183
+2017,Wholesale Trade,86.9806
+2017,Retail Trade,21.3652
+2017,Transportation & Storage,56.406
+2017,Accommodation,47.102
+2017,Food & Beverage Services,10.6712
+2017,Information & Communications,62.3726
+2017,Finance & Insurance,133.2457
+2017,Real Estate,98.1504
+2017,Professional Services,51.673
+2017,Administrative & Support Services,46.6731
+2017,Other Services Industries,21.8937
+2016,Manufacturing,68.7033
+2016,Construction,16.731
+2016,Wholesale Trade,84.68
+2016,Retail Trade,20.7315
+2016,Transportation & Storage,54.0356
+2016,Accommodation,45.2454
+2016,Food & Beverage Services,10.9223
+2016,Information & Communications,61.5738
+2016,Finance & Insurance,127.3556
+2016,Real Estate,105.2884
+2016,Professional Services,48.7287
+2016,Administrative & Support Services,45.2278
+2016,Other Services Industries,21.7259
+2015,Manufacturing,63.5745
+2015,Construction,16.9994
+2015,Wholesale Trade,83.3696
+2015,Retail Trade,19.6805
+2015,Transportation & Storage,52.3155
+2015,Accommodation,45.1776
+2015,Food & Beverage Services,10.8203
+2015,Information & Communications,58.3418
+2015,Finance & Insurance,126.4437
+2015,Real Estate,99.313
+2015,Professional Services,48.0334
+2015,Administrative & Support Services,40.3145
+2015,Other Services Industries,21.8082
+2014,Manufacturing,64.6299
+2014,Construction,15.9119
+2014,Wholesale Trade,80.7157
+2014,Retail Trade,18.567
+2014,Transportation & Storage,52.3268
+2014,Accommodation,44.366
+2014,Food & Beverage Services,10.8923
+2014,Information & Communications,60.5305
+2014,Finance & Insurance,123.1349
+2014,Real Estate,94.2805
+2014,Professional Services,45.9239
+2014,Administrative & Support Services,36.0801
+2014,Other Services Industries,22.0361
+2013,Manufacturing,62.2043
+2013,Construction,15.2523
+2013,Wholesale Trade,77.5675
+2013,Retail Trade,18.2028
+2013,Transportation & Storage,51.9776
+2013,Accommodation,43.4222
+2013,Food & Beverage Services,10.8299
+2013,Information & Communications,57.8396
+2013,Finance & Insurance,116.3226
+2013,Real Estate,97.3098
+2013,Professional Services,47.6243
+2013,Administrative & Support Services,34.1081
+2013,Other Services Industries,21.8987
+2012,Manufacturing,61.7476
+2012,Construction,16.4115
+2012,Wholesale Trade,74.013
+2012,Retail Trade,18.1856
+2012,Transportation & Storage,52.211
+2012,Accommodation,43.248
+2012,Food & Beverage Services,10.5081
+2012,Information & Communications,55.6648
+2012,Finance & Insurance,101.9454
+2012,Real Estate,90.6327
+2012,Professional Services,50.213
+2012,Administrative & Support Services,32.2707
+2012,Other Services Industries,22.1144
+2011,Manufacturing,62.5816
+2011,Construction,16.2829
+2011,Wholesale Trade,71.3296
+2011,Retail Trade,18.5123
+2011,Transportation & Storage,51.5377
+2011,Accommodation,44.5816
+2011,Food & Beverage Services,10.0367
+2011,Information & Communications,54.3382
+2011,Finance & Insurance,99.8711
+2011,Real Estate,91.3091
+2011,Professional Services,50.4892
+2011,Administrative & Support Services,31.8656
+2011,Other Services Industries,22.053
+2010,Manufacturing,57.2297
+2010,Construction,16.0297
+2010,Wholesale Trade,66.4146
+2010,Retail Trade,17.982
+2010,Transportation & Storage,49.7651
+2010,Accommodation,40.9042
+2010,Food & Beverage Services,9.4596
+2010,Information & Communications,54.4334
+2010,Finance & Insurance,96.8627
+2010,Real Estate,91.1406
+2010,Professional Services,51.8792
+2010,Administrative & Support Services,27.0739
+2010,Other Services Industries,21.5852
+2009,Manufacturing,45.3255
+2009,Construction,15.5653
+2009,Wholesale Trade,58.3596
+2009,Retail Trade,18.6564
+2009,Transportation & Storage,48.3572
+2009,Accommodation,39.3685
+2009,Food & Beverage Services,8.9978
+2009,Information & Communications,55.4549
+2009,Finance & Insurance,90.5868
+2009,Real Estate,85.6952
+2009,Professional Services,53.3073
+2009,Administrative & Support Services,25.3155
+2009,Other Services Industries,20.2943

@@ -1,0 +1,2179 @@
+Year,Age,Occupation,Employed
+2022 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2022 ,15-19,Professionals,0.1
+2022 ,15-19,Associate Professionals & Technicians,1.9
+2022 ,15-19,Clerical Support Workers,2.2
+2022 ,15-19,Service & Sales Workers,4.5
+2022 ,15-19,Craftsmen & Related Trade Workers,0.1
+2022 ,15-19,Plant & Machine Operators & Assemblers,0.3
+2022 ,15-19,"Cleaners, Labourers & Related Workers",0.6
+2022 ,15-19,Others,0.0
+2022 ,20-24,Managers & Administrators (Including Working Proprietors),0.7
+2022 ,20-24,Professionals,11.3
+2022 ,20-24,Associate Professionals & Technicians,17.2
+2022 ,20-24,Clerical Support Workers,8.3
+2022 ,20-24,Service & Sales Workers,7.6
+2022 ,20-24,Craftsmen & Related Trade Workers,0.6
+2022 ,20-24,Plant & Machine Operators & Assemblers,0.1
+2022 ,20-24,"Cleaners, Labourers & Related Workers",1.5
+2022 ,20-24,Others,0.4
+2022 ,25-29,Managers & Administrators (Including Working Proprietors),6.3
+2022 ,25-29,Professionals,41.6
+2022 ,25-29,Associate Professionals & Technicians,28.7
+2022 ,25-29,Clerical Support Workers,10.3
+2022 ,25-29,Service & Sales Workers,8.5
+2022 ,25-29,Craftsmen & Related Trade Workers,0.4
+2022 ,25-29,Plant & Machine Operators & Assemblers,0.4
+2022 ,25-29,"Cleaners, Labourers & Related Workers",0.9
+2022 ,25-29,Others,0.4
+2022 ,30-34,Managers & Administrators (Including Working Proprietors),19.6
+2022 ,30-34,Professionals,54.8
+2022 ,30-34,Associate Professionals & Technicians,35.8
+2022 ,30-34,Clerical Support Workers,13.7
+2022 ,30-34,Service & Sales Workers,10.0
+2022 ,30-34,Craftsmen & Related Trade Workers,0.2
+2022 ,30-34,Plant & Machine Operators & Assemblers,0.8
+2022 ,30-34,"Cleaners, Labourers & Related Workers",0.8
+2022 ,30-34,Others,0.2
+2022 ,35-39,Managers & Administrators (Including Working Proprietors),26.5
+2022 ,35-39,Professionals,47.9
+2022 ,35-39,Associate Professionals & Technicians,30.4
+2022 ,35-39,Clerical Support Workers,15.2
+2022 ,35-39,Service & Sales Workers,11.7
+2022 ,35-39,Craftsmen & Related Trade Workers,0.5
+2022 ,35-39,Plant & Machine Operators & Assemblers,0.4
+2022 ,35-39,"Cleaners, Labourers & Related Workers",2.8
+2022 ,35-39,Others,0.2
+2022 ,40-44,Managers & Administrators (Including Working Proprietors),34.2
+2022 ,40-44,Professionals,42.5
+2022 ,40-44,Associate Professionals & Technicians,33.9
+2022 ,40-44,Clerical Support Workers,16.7
+2022 ,40-44,Service & Sales Workers,14.0
+2022 ,40-44,Craftsmen & Related Trade Workers,0.8
+2022 ,40-44,Plant & Machine Operators & Assemblers,0.7
+2022 ,40-44,"Cleaners, Labourers & Related Workers",3.3
+2022 ,40-44,Others,0.2
+2022 ,45-49,Managers & Administrators (Including Working Proprietors),27.7
+2022 ,45-49,Professionals,36.4
+2022 ,45-49,Associate Professionals & Technicians,31.3
+2022 ,45-49,Clerical Support Workers,22.0
+2022 ,45-49,Service & Sales Workers,16.8
+2022 ,45-49,Craftsmen & Related Trade Workers,0.6
+2022 ,45-49,Plant & Machine Operators & Assemblers,1.9
+2022 ,45-49,"Cleaners, Labourers & Related Workers",5.9
+2022 ,45-49,Others,0.4
+2022 ,50-54,Managers & Administrators (Including Working Proprietors),20.6
+2022 ,50-54,Professionals,23.1
+2022 ,50-54,Associate Professionals & Technicians,24.3
+2022 ,50-54,Clerical Support Workers,19.6
+2022 ,50-54,Service & Sales Workers,13.7
+2022 ,50-54,Craftsmen & Related Trade Workers,1.2
+2022 ,50-54,Plant & Machine Operators & Assemblers,2.2
+2022 ,50-54,"Cleaners, Labourers & Related Workers",9.3
+2022 ,50-54,Others,0.1
+2022 ,55-59,Managers & Administrators (Including Working Proprietors),15.1
+2022 ,55-59,Professionals,13.7
+2022 ,55-59,Associate Professionals & Technicians,17.9
+2022 ,55-59,Clerical Support Workers,21.3
+2022 ,55-59,Service & Sales Workers,16.0
+2022 ,55-59,Craftsmen & Related Trade Workers,1.2
+2022 ,55-59,Plant & Machine Operators & Assemblers,1.9
+2022 ,55-59,"Cleaners, Labourers & Related Workers",12.3
+2022 ,55-59,Others,0.2
+2022 ,60-64,Managers & Administrators (Including Working Proprietors),7.7
+2022 ,60-64,Professionals,7.2
+2022 ,60-64,Associate Professionals & Technicians,11.9
+2022 ,60-64,Clerical Support Workers,18.3
+2022 ,60-64,Service & Sales Workers,14.2
+2022 ,60-64,Craftsmen & Related Trade Workers,1.6
+2022 ,60-64,Plant & Machine Operators & Assemblers,2.6
+2022 ,60-64,"Cleaners, Labourers & Related Workers",17.9
+2022 ,60-64,Others,0.1
+2022 ,65+,Managers & Administrators (Including Working Proprietors),5.8
+2022 ,65+,Professionals,4.9
+2022 ,65+,Associate Professionals & Technicians,7.7
+2022 ,65+,Clerical Support Workers,14.6
+2022 ,65+,Service & Sales Workers,16.4
+2022 ,65+,Craftsmen & Related Trade Workers,1.8
+2022 ,65+,Plant & Machine Operators & Assemblers,2.0
+2022 ,65+,"Cleaners, Labourers & Related Workers",30.0
+2022 ,65+,Others,0.3
+2021 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2021 ,15-19,Professionals,0.1
+2021 ,15-19,Associate Professionals & Technicians,1.4
+2021 ,15-19,Clerical Support Workers,4.0
+2021 ,15-19,Service & Sales Workers,4.2
+2021 ,15-19,Craftsmen & Related Trade Workers,0.0
+2021 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2021 ,15-19,"Cleaners, Labourers & Related Workers",1.3
+2021 ,15-19,Others,0.0
+2021 ,20-24,Managers & Administrators (Including Working Proprietors),0.7
+2021 ,20-24,Professionals,15.2
+2021 ,20-24,Associate Professionals & Technicians,17.3
+2021 ,20-24,Clerical Support Workers,14.2
+2021 ,20-24,Service & Sales Workers,9.9
+2021 ,20-24,Craftsmen & Related Trade Workers,0.6
+2021 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2021 ,20-24,"Cleaners, Labourers & Related Workers",2.2
+2021 ,20-24,Others,0.1
+2021 ,25-29,Managers & Administrators (Including Working Proprietors),6.0
+2021 ,25-29,Professionals,46.3
+2021 ,25-29,Associate Professionals & Technicians,37.8
+2021 ,25-29,Clerical Support Workers,12.1
+2021 ,25-29,Service & Sales Workers,10.0
+2021 ,25-29,Craftsmen & Related Trade Workers,0.5
+2021 ,25-29,Plant & Machine Operators & Assemblers,0.2
+2021 ,25-29,"Cleaners, Labourers & Related Workers",1.3
+2021 ,25-29,Others,0.3
+2021 ,30-34,Managers & Administrators (Including Working Proprietors),18.2
+2021 ,30-34,Professionals,60.9
+2021 ,30-34,Associate Professionals & Technicians,37.5
+2021 ,30-34,Clerical Support Workers,18.1
+2021 ,30-34,Service & Sales Workers,10.1
+2021 ,30-34,Craftsmen & Related Trade Workers,0.6
+2021 ,30-34,Plant & Machine Operators & Assemblers,1.2
+2021 ,30-34,"Cleaners, Labourers & Related Workers",1.7
+2021 ,30-34,Others,0.2
+2021 ,35-39,Managers & Administrators (Including Working Proprietors),23.8
+2021 ,35-39,Professionals,46.2
+2021 ,35-39,Associate Professionals & Technicians,31.3
+2021 ,35-39,Clerical Support Workers,16.0
+2021 ,35-39,Service & Sales Workers,11.4
+2021 ,35-39,Craftsmen & Related Trade Workers,0.6
+2021 ,35-39,Plant & Machine Operators & Assemblers,0.8
+2021 ,35-39,"Cleaners, Labourers & Related Workers",2.4
+2021 ,35-39,Others,0.1
+2021 ,40-44,Managers & Administrators (Including Working Proprietors),27.5
+2021 ,40-44,Professionals,39.4
+2021 ,40-44,Associate Professionals & Technicians,29.1
+2021 ,40-44,Clerical Support Workers,16.3
+2021 ,40-44,Service & Sales Workers,11.7
+2021 ,40-44,Craftsmen & Related Trade Workers,0.7
+2021 ,40-44,Plant & Machine Operators & Assemblers,1.3
+2021 ,40-44,"Cleaners, Labourers & Related Workers",3.5
+2021 ,40-44,Others,0.3
+2021 ,45-49,Managers & Administrators (Including Working Proprietors),24.4
+2021 ,45-49,Professionals,27.6
+2021 ,45-49,Associate Professionals & Technicians,23.3
+2021 ,45-49,Clerical Support Workers,20.3
+2021 ,45-49,Service & Sales Workers,12.7
+2021 ,45-49,Craftsmen & Related Trade Workers,1.4
+2021 ,45-49,Plant & Machine Operators & Assemblers,1.9
+2021 ,45-49,"Cleaners, Labourers & Related Workers",5.6
+2021 ,45-49,Others,0.1
+2021 ,50-54,Managers & Administrators (Including Working Proprietors),18.0
+2021 ,50-54,Professionals,17.7
+2021 ,50-54,Associate Professionals & Technicians,19.5
+2021 ,50-54,Clerical Support Workers,17.7
+2021 ,50-54,Service & Sales Workers,14.4
+2021 ,50-54,Craftsmen & Related Trade Workers,1.1
+2021 ,50-54,Plant & Machine Operators & Assemblers,2.8
+2021 ,50-54,"Cleaners, Labourers & Related Workers",7.8
+2021 ,50-54,Others,0.2
+2021 ,55-59,Managers & Administrators (Including Working Proprietors),11.0
+2021 ,55-59,Professionals,12.1
+2021 ,55-59,Associate Professionals & Technicians,14.9
+2021 ,55-59,Clerical Support Workers,21.4
+2021 ,55-59,Service & Sales Workers,16.8
+2021 ,55-59,Craftsmen & Related Trade Workers,1.2
+2021 ,55-59,Plant & Machine Operators & Assemblers,3.0
+2021 ,55-59,"Cleaners, Labourers & Related Workers",13.2
+2021 ,55-59,Others,0.1
+2021 ,60-64,Managers & Administrators (Including Working Proprietors),9.0
+2021 ,60-64,Professionals,7.2
+2021 ,60-64,Associate Professionals & Technicians,11.8
+2021 ,60-64,Clerical Support Workers,18.3
+2021 ,60-64,Service & Sales Workers,15.8
+2021 ,60-64,Craftsmen & Related Trade Workers,1.5
+2021 ,60-64,Plant & Machine Operators & Assemblers,1.3
+2021 ,60-64,"Cleaners, Labourers & Related Workers",16.4
+2021 ,60-64,Others,0.2
+2021 ,65+,Managers & Administrators (Including Working Proprietors),5.4
+2021 ,65+,Professionals,4.4
+2021 ,65+,Associate Professionals & Technicians,7.0
+2021 ,65+,Clerical Support Workers,13.0
+2021 ,65+,Service & Sales Workers,15.5
+2021 ,65+,Craftsmen & Related Trade Workers,1.6
+2021 ,65+,Plant & Machine Operators & Assemblers,1.5
+2021 ,65+,"Cleaners, Labourers & Related Workers",29.2
+2021 ,65+,Others,0.3
+2020 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2020 ,15-19,Professionals,0.1
+2020 ,15-19,Associate Professionals & Technicians,1.0
+2020 ,15-19,Clerical Support Workers,2.3
+2020 ,15-19,Service & Sales Workers,3.7
+2020 ,15-19,Craftsmen & Related Trade Workers,0.3
+2020 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2020 ,15-19,"Cleaners, Labourers & Related Workers",0.7
+2020 ,15-19,Others,0.0
+2020 ,20-24,Managers & Administrators (Including Working Proprietors),0.4
+2020 ,20-24,Professionals,9.1
+2020 ,20-24,Associate Professionals & Technicians,18.8
+2020 ,20-24,Clerical Support Workers,13.8
+2020 ,20-24,Service & Sales Workers,10.5
+2020 ,20-24,Craftsmen & Related Trade Workers,0.5
+2020 ,20-24,Plant & Machine Operators & Assemblers,0.4
+2020 ,20-24,"Cleaners, Labourers & Related Workers",1.8
+2020 ,20-24,Others,0.2
+2020 ,25-29,Managers & Administrators (Including Working Proprietors),4.4
+2020 ,25-29,Professionals,43.2
+2020 ,25-29,Associate Professionals & Technicians,42.6
+2020 ,25-29,Clerical Support Workers,15.1
+2020 ,25-29,Service & Sales Workers,11.7
+2020 ,25-29,Craftsmen & Related Trade Workers,0.6
+2020 ,25-29,Plant & Machine Operators & Assemblers,0.5
+2020 ,25-29,"Cleaners, Labourers & Related Workers",1.4
+2020 ,25-29,Others,0.3
+2020 ,30-34,Managers & Administrators (Including Working Proprietors),14.5
+2020 ,30-34,Professionals,49.8
+2020 ,30-34,Associate Professionals & Technicians,34.4
+2020 ,30-34,Clerical Support Workers,13.8
+2020 ,30-34,Service & Sales Workers,10.4
+2020 ,30-34,Craftsmen & Related Trade Workers,0.3
+2020 ,30-34,Plant & Machine Operators & Assemblers,0.7
+2020 ,30-34,"Cleaners, Labourers & Related Workers",1.7
+2020 ,30-34,Others,0.2
+2020 ,35-39,Managers & Administrators (Including Working Proprietors),25.9
+2020 ,35-39,Professionals,40.6
+2020 ,35-39,Associate Professionals & Technicians,30.3
+2020 ,35-39,Clerical Support Workers,14.7
+2020 ,35-39,Service & Sales Workers,13.3
+2020 ,35-39,Craftsmen & Related Trade Workers,0.3
+2020 ,35-39,Plant & Machine Operators & Assemblers,1.2
+2020 ,35-39,"Cleaners, Labourers & Related Workers",2.5
+2020 ,35-39,Others,0.3
+2020 ,40-44,Managers & Administrators (Including Working Proprietors),27.0
+2020 ,40-44,Professionals,35.1
+2020 ,40-44,Associate Professionals & Technicians,25.3
+2020 ,40-44,Clerical Support Workers,17.4
+2020 ,40-44,Service & Sales Workers,12.0
+2020 ,40-44,Craftsmen & Related Trade Workers,0.6
+2020 ,40-44,Plant & Machine Operators & Assemblers,1.1
+2020 ,40-44,"Cleaners, Labourers & Related Workers",3.7
+2020 ,40-44,Others,0.1
+2020 ,45-49,Managers & Administrators (Including Working Proprietors),24.9
+2020 ,45-49,Professionals,28.1
+2020 ,45-49,Associate Professionals & Technicians,23.7
+2020 ,45-49,Clerical Support Workers,18.8
+2020 ,45-49,Service & Sales Workers,15.5
+2020 ,45-49,Craftsmen & Related Trade Workers,0.9
+2020 ,45-49,Plant & Machine Operators & Assemblers,2.6
+2020 ,45-49,"Cleaners, Labourers & Related Workers",6.0
+2020 ,45-49,Others,0.1
+2020 ,50-54,Managers & Administrators (Including Working Proprietors),17.8
+2020 ,50-54,Professionals,16.9
+2020 ,50-54,Associate Professionals & Technicians,20.2
+2020 ,50-54,Clerical Support Workers,19.7
+2020 ,50-54,Service & Sales Workers,18.1
+2020 ,50-54,Craftsmen & Related Trade Workers,1.1
+2020 ,50-54,Plant & Machine Operators & Assemblers,2.1
+2020 ,50-54,"Cleaners, Labourers & Related Workers",9.8
+2020 ,50-54,Others,0.1
+2020 ,55-59,Managers & Administrators (Including Working Proprietors),12.0
+2020 ,55-59,Professionals,11.0
+2020 ,55-59,Associate Professionals & Technicians,14.3
+2020 ,55-59,Clerical Support Workers,20.7
+2020 ,55-59,Service & Sales Workers,18.9
+2020 ,55-59,Craftsmen & Related Trade Workers,1.4
+2020 ,55-59,Plant & Machine Operators & Assemblers,2.8
+2020 ,55-59,"Cleaners, Labourers & Related Workers",15.0
+2020 ,55-59,Others,0.1
+2020 ,60-64,Managers & Administrators (Including Working Proprietors),6.6
+2020 ,60-64,Professionals,6.0
+2020 ,60-64,Associate Professionals & Technicians,9.3
+2020 ,60-64,Clerical Support Workers,16.8
+2020 ,60-64,Service & Sales Workers,16.4
+2020 ,60-64,Craftsmen & Related Trade Workers,1.1
+2020 ,60-64,Plant & Machine Operators & Assemblers,1.6
+2020 ,60-64,"Cleaners, Labourers & Related Workers",14.4
+2020 ,60-64,Others,0.2
+2020 ,65+,Managers & Administrators (Including Working Proprietors),3.2
+2020 ,65+,Professionals,3.8
+2020 ,65+,Associate Professionals & Technicians,6.4
+2020 ,65+,Clerical Support Workers,10.8
+2020 ,65+,Service & Sales Workers,14.3
+2020 ,65+,Craftsmen & Related Trade Workers,1.6
+2020 ,65+,Plant & Machine Operators & Assemblers,1.5
+2020 ,65+,"Cleaners, Labourers & Related Workers",27.0
+2020 ,65+,Others,0.1
+2019 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2019 ,15-19,Professionals,0.2
+2019 ,15-19,Associate Professionals & Technicians,1.1
+2019 ,15-19,Clerical Support Workers,3.3
+2019 ,15-19,Service & Sales Workers,5.8
+2019 ,15-19,Craftsmen & Related Trade Workers,0.1
+2019 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2019 ,15-19,"Cleaners, Labourers & Related Workers",1.3
+2019 ,15-19,Others,0.1
+2019 ,20-24,Managers & Administrators (Including Working Proprietors),0.6
+2019 ,20-24,Professionals,12.8
+2019 ,20-24,Associate Professionals & Technicians,19.9
+2019 ,20-24,Clerical Support Workers,14.3
+2019 ,20-24,Service & Sales Workers,11.7
+2019 ,20-24,Craftsmen & Related Trade Workers,0.7
+2019 ,20-24,Plant & Machine Operators & Assemblers,0.1
+2019 ,20-24,"Cleaners, Labourers & Related Workers",1.9
+2019 ,20-24,Others,0.4
+2019 ,25-29,Managers & Administrators (Including Working Proprietors),4.0
+2019 ,25-29,Professionals,43.1
+2019 ,25-29,Associate Professionals & Technicians,37.0
+2019 ,25-29,Clerical Support Workers,14.5
+2019 ,25-29,Service & Sales Workers,9.4
+2019 ,25-29,Craftsmen & Related Trade Workers,0.6
+2019 ,25-29,Plant & Machine Operators & Assemblers,0.5
+2019 ,25-29,"Cleaners, Labourers & Related Workers",1.4
+2019 ,25-29,Others,0.5
+2019 ,30-34,Managers & Administrators (Including Working Proprietors),15.5
+2019 ,30-34,Professionals,42.5
+2019 ,30-34,Associate Professionals & Technicians,35.0
+2019 ,30-34,Clerical Support Workers,16.7
+2019 ,30-34,Service & Sales Workers,10.6
+2019 ,30-34,Craftsmen & Related Trade Workers,0.5
+2019 ,30-34,Plant & Machine Operators & Assemblers,0.5
+2019 ,30-34,"Cleaners, Labourers & Related Workers",1.6
+2019 ,30-34,Others,0.2
+2019 ,35-39,Managers & Administrators (Including Working Proprietors),24.4
+2019 ,35-39,Professionals,39.8
+2019 ,35-39,Associate Professionals & Technicians,30.5
+2019 ,35-39,Clerical Support Workers,17.0
+2019 ,35-39,Service & Sales Workers,12.5
+2019 ,35-39,Craftsmen & Related Trade Workers,0.6
+2019 ,35-39,Plant & Machine Operators & Assemblers,1.1
+2019 ,35-39,"Cleaners, Labourers & Related Workers",2.5
+2019 ,35-39,Others,0.1
+2019 ,40-44,Managers & Administrators (Including Working Proprietors),24.6
+2019 ,40-44,Professionals,31.7
+2019 ,40-44,Associate Professionals & Technicians,29.2
+2019 ,40-44,Clerical Support Workers,20.5
+2019 ,40-44,Service & Sales Workers,15.4
+2019 ,40-44,Craftsmen & Related Trade Workers,0.6
+2019 ,40-44,Plant & Machine Operators & Assemblers,1.3
+2019 ,40-44,"Cleaners, Labourers & Related Workers",4.0
+2019 ,40-44,Others,0.1
+2019 ,45-49,Managers & Administrators (Including Working Proprietors),25.6
+2019 ,45-49,Professionals,24.9
+2019 ,45-49,Associate Professionals & Technicians,27.0
+2019 ,45-49,Clerical Support Workers,23.1
+2019 ,45-49,Service & Sales Workers,16.5
+2019 ,45-49,Craftsmen & Related Trade Workers,1.2
+2019 ,45-49,Plant & Machine Operators & Assemblers,2.9
+2019 ,45-49,"Cleaners, Labourers & Related Workers",7.1
+2019 ,45-49,Others,0.3
+2019 ,50-54,Managers & Administrators (Including Working Proprietors),15.7
+2019 ,50-54,Professionals,16.2
+2019 ,50-54,Associate Professionals & Technicians,19.4
+2019 ,50-54,Clerical Support Workers,24.6
+2019 ,50-54,Service & Sales Workers,20.5
+2019 ,50-54,Craftsmen & Related Trade Workers,0.7
+2019 ,50-54,Plant & Machine Operators & Assemblers,2.1
+2019 ,50-54,"Cleaners, Labourers & Related Workers",10.2
+2019 ,50-54,Others,0.2
+2019 ,55-59,Managers & Administrators (Including Working Proprietors),12.3
+2019 ,55-59,Professionals,11.4
+2019 ,55-59,Associate Professionals & Technicians,13.9
+2019 ,55-59,Clerical Support Workers,22.0
+2019 ,55-59,Service & Sales Workers,18.0
+2019 ,55-59,Craftsmen & Related Trade Workers,1.7
+2019 ,55-59,Plant & Machine Operators & Assemblers,3.0
+2019 ,55-59,"Cleaners, Labourers & Related Workers",16.4
+2019 ,55-59,Others,0.2
+2019 ,60-64,Managers & Administrators (Including Working Proprietors),6.7
+2019 ,60-64,Professionals,5.2
+2019 ,60-64,Associate Professionals & Technicians,6.9
+2019 ,60-64,Clerical Support Workers,15.1
+2019 ,60-64,Service & Sales Workers,13.5
+2019 ,60-64,Craftsmen & Related Trade Workers,0.8
+2019 ,60-64,Plant & Machine Operators & Assemblers,1.7
+2019 ,60-64,"Cleaners, Labourers & Related Workers",14.9
+2019 ,60-64,Others,0.1
+2019 ,65+,Managers & Administrators (Including Working Proprietors),4.4
+2019 ,65+,Professionals,3.7
+2019 ,65+,Associate Professionals & Technicians,4.8
+2019 ,65+,Clerical Support Workers,9.7
+2019 ,65+,Service & Sales Workers,12.2
+2019 ,65+,Craftsmen & Related Trade Workers,1.5
+2019 ,65+,Plant & Machine Operators & Assemblers,1.3
+2019 ,65+,"Cleaners, Labourers & Related Workers",23.9
+2019 ,65+,Others,0.2
+2018 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2018 ,15-19,Professionals,0.3
+2018 ,15-19,Associate Professionals & Technicians,1.3
+2018 ,15-19,Clerical Support Workers,3.7
+2018 ,15-19,Service & Sales Workers,5.8
+2018 ,15-19,Craftsmen & Related Trade Workers,0.1
+2018 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2018 ,15-19,"Cleaners, Labourers & Related Workers",0.6
+2018 ,15-19,Others,0.1
+2018 ,20-24,Managers & Administrators (Including Working Proprietors),0.6
+2018 ,20-24,Professionals,11.6
+2018 ,20-24,Associate Professionals & Technicians,19.6
+2018 ,20-24,Clerical Support Workers,17.7
+2018 ,20-24,Service & Sales Workers,12.7
+2018 ,20-24,Craftsmen & Related Trade Workers,0.4
+2018 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2018 ,20-24,"Cleaners, Labourers & Related Workers",1.5
+2018 ,20-24,Others,0.4
+2018 ,25-29,Managers & Administrators (Including Working Proprietors),5.0
+2018 ,25-29,Professionals,38.1
+2018 ,25-29,Associate Professionals & Technicians,38.0
+2018 ,25-29,Clerical Support Workers,17.5
+2018 ,25-29,Service & Sales Workers,11.1
+2018 ,25-29,Craftsmen & Related Trade Workers,0.3
+2018 ,25-29,Plant & Machine Operators & Assemblers,0.4
+2018 ,25-29,"Cleaners, Labourers & Related Workers",1.8
+2018 ,25-29,Others,0.7
+2018 ,30-34,Managers & Administrators (Including Working Proprietors),12.9
+2018 ,30-34,Professionals,39.4
+2018 ,30-34,Associate Professionals & Technicians,33.9
+2018 ,30-34,Clerical Support Workers,14.6
+2018 ,30-34,Service & Sales Workers,11.2
+2018 ,30-34,Craftsmen & Related Trade Workers,0.4
+2018 ,30-34,Plant & Machine Operators & Assemblers,0.2
+2018 ,30-34,"Cleaners, Labourers & Related Workers",1.8
+2018 ,30-34,Others,0.3
+2018 ,35-39,Managers & Administrators (Including Working Proprietors),21.9
+2018 ,35-39,Professionals,37.3
+2018 ,35-39,Associate Professionals & Technicians,32.2
+2018 ,35-39,Clerical Support Workers,19.6
+2018 ,35-39,Service & Sales Workers,11.5
+2018 ,35-39,Craftsmen & Related Trade Workers,1.0
+2018 ,35-39,Plant & Machine Operators & Assemblers,1.2
+2018 ,35-39,"Cleaners, Labourers & Related Workers",3.3
+2018 ,35-39,Others,0.6
+2018 ,40-44,Managers & Administrators (Including Working Proprietors),26.3
+2018 ,40-44,Professionals,31.6
+2018 ,40-44,Associate Professionals & Technicians,26.9
+2018 ,40-44,Clerical Support Workers,20.8
+2018 ,40-44,Service & Sales Workers,13.7
+2018 ,40-44,Craftsmen & Related Trade Workers,0.5
+2018 ,40-44,Plant & Machine Operators & Assemblers,2.0
+2018 ,40-44,"Cleaners, Labourers & Related Workers",5.1
+2018 ,40-44,Others,0.3
+2018 ,45-49,Managers & Administrators (Including Working Proprietors),23.1
+2018 ,45-49,Professionals,22.2
+2018 ,45-49,Associate Professionals & Technicians,24.6
+2018 ,45-49,Clerical Support Workers,22.1
+2018 ,45-49,Service & Sales Workers,18.3
+2018 ,45-49,Craftsmen & Related Trade Workers,1.0
+2018 ,45-49,Plant & Machine Operators & Assemblers,3.0
+2018 ,45-49,"Cleaners, Labourers & Related Workers",7.8
+2018 ,45-49,Others,0.2
+2018 ,50-54,Managers & Administrators (Including Working Proprietors),15.8
+2018 ,50-54,Professionals,13.8
+2018 ,50-54,Associate Professionals & Technicians,18.5
+2018 ,50-54,Clerical Support Workers,25.2
+2018 ,50-54,Service & Sales Workers,20.4
+2018 ,50-54,Craftsmen & Related Trade Workers,1.6
+2018 ,50-54,Plant & Machine Operators & Assemblers,3.5
+2018 ,50-54,"Cleaners, Labourers & Related Workers",11.7
+2018 ,50-54,Others,0.2
+2018 ,55-59,Managers & Administrators (Including Working Proprietors),9.0
+2018 ,55-59,Professionals,10.3
+2018 ,55-59,Associate Professionals & Technicians,14.9
+2018 ,55-59,Clerical Support Workers,18.9
+2018 ,55-59,Service & Sales Workers,16.4
+2018 ,55-59,Craftsmen & Related Trade Workers,1.1
+2018 ,55-59,Plant & Machine Operators & Assemblers,2.7
+2018 ,55-59,"Cleaners, Labourers & Related Workers",15.5
+2018 ,55-59,Others,0.2
+2018 ,60-64,Managers & Administrators (Including Working Proprietors),5.0
+2018 ,60-64,Professionals,5.7
+2018 ,60-64,Associate Professionals & Technicians,8.5
+2018 ,60-64,Clerical Support Workers,13.8
+2018 ,60-64,Service & Sales Workers,14.3
+2018 ,60-64,Craftsmen & Related Trade Workers,1.4
+2018 ,60-64,Plant & Machine Operators & Assemblers,2.4
+2018 ,60-64,"Cleaners, Labourers & Related Workers",16.9
+2018 ,60-64,Others,0.2
+2018 ,65+,Managers & Administrators (Including Working Proprietors),2.9
+2018 ,65+,Professionals,3.1
+2018 ,65+,Associate Professionals & Technicians,4.1
+2018 ,65+,Clerical Support Workers,7.2
+2018 ,65+,Service & Sales Workers,11.6
+2018 ,65+,Craftsmen & Related Trade Workers,1.0
+2018 ,65+,Plant & Machine Operators & Assemblers,1.3
+2018 ,65+,"Cleaners, Labourers & Related Workers",24.1
+2018 ,65+,Others,0.2
+2017 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2017 ,15-19,Professionals,0.1
+2017 ,15-19,Associate Professionals & Technicians,0.8
+2017 ,15-19,Clerical Support Workers,3.1
+2017 ,15-19,Service & Sales Workers,5.4
+2017 ,15-19,Craftsmen & Related Trade Workers,0.1
+2017 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2017 ,15-19,"Cleaners, Labourers & Related Workers",0.6
+2017 ,15-19,Others,0.1
+2017 ,20-24,Managers & Administrators (Including Working Proprietors),0.7
+2017 ,20-24,Professionals,10.1
+2017 ,20-24,Associate Professionals & Technicians,19.8
+2017 ,20-24,Clerical Support Workers,16.9
+2017 ,20-24,Service & Sales Workers,12.3
+2017 ,20-24,Craftsmen & Related Trade Workers,0.5
+2017 ,20-24,Plant & Machine Operators & Assemblers,0.3
+2017 ,20-24,"Cleaners, Labourers & Related Workers",1.1
+2017 ,20-24,Others,0.1
+2017 ,25-29,Managers & Administrators (Including Working Proprietors),4.4
+2017 ,25-29,Professionals,39.5
+2017 ,25-29,Associate Professionals & Technicians,38.5
+2017 ,25-29,Clerical Support Workers,15.8
+2017 ,25-29,Service & Sales Workers,9.3
+2017 ,25-29,Craftsmen & Related Trade Workers,0.5
+2017 ,25-29,Plant & Machine Operators & Assemblers,0.5
+2017 ,25-29,"Cleaners, Labourers & Related Workers",1.2
+2017 ,25-29,Others,0.2
+2017 ,30-34,Managers & Administrators (Including Working Proprietors),12.8
+2017 ,30-34,Professionals,43.9
+2017 ,30-34,Associate Professionals & Technicians,32.1
+2017 ,30-34,Clerical Support Workers,18.0
+2017 ,30-34,Service & Sales Workers,9.2
+2017 ,30-34,Craftsmen & Related Trade Workers,0.2
+2017 ,30-34,Plant & Machine Operators & Assemblers,0.6
+2017 ,30-34,"Cleaners, Labourers & Related Workers",2.3
+2017 ,30-34,Others,0.1
+2017 ,35-39,Managers & Administrators (Including Working Proprietors),21.4
+2017 ,35-39,Professionals,37.5
+2017 ,35-39,Associate Professionals & Technicians,30.7
+2017 ,35-39,Clerical Support Workers,20.2
+2017 ,35-39,Service & Sales Workers,13.5
+2017 ,35-39,Craftsmen & Related Trade Workers,0.5
+2017 ,35-39,Plant & Machine Operators & Assemblers,1.2
+2017 ,35-39,"Cleaners, Labourers & Related Workers",4.1
+2017 ,35-39,Others,0.2
+2017 ,40-44,Managers & Administrators (Including Working Proprietors),25.3
+2017 ,40-44,Professionals,28.0
+2017 ,40-44,Associate Professionals & Technicians,25.5
+2017 ,40-44,Clerical Support Workers,24.5
+2017 ,40-44,Service & Sales Workers,14.2
+2017 ,40-44,Craftsmen & Related Trade Workers,1.0
+2017 ,40-44,Plant & Machine Operators & Assemblers,2.0
+2017 ,40-44,"Cleaners, Labourers & Related Workers",4.4
+2017 ,40-44,Others,0.3
+2017 ,45-49,Managers & Administrators (Including Working Proprietors),21.4
+2017 ,45-49,Professionals,22.3
+2017 ,45-49,Associate Professionals & Technicians,24.8
+2017 ,45-49,Clerical Support Workers,24.8
+2017 ,45-49,Service & Sales Workers,17.5
+2017 ,45-49,Craftsmen & Related Trade Workers,1.3
+2017 ,45-49,Plant & Machine Operators & Assemblers,2.7
+2017 ,45-49,"Cleaners, Labourers & Related Workers",7.2
+2017 ,45-49,Others,0.3
+2017 ,50-54,Managers & Administrators (Including Working Proprietors),14.7
+2017 ,50-54,Professionals,12.9
+2017 ,50-54,Associate Professionals & Technicians,17.4
+2017 ,50-54,Clerical Support Workers,24.4
+2017 ,50-54,Service & Sales Workers,18.3
+2017 ,50-54,Craftsmen & Related Trade Workers,1.1
+2017 ,50-54,Plant & Machine Operators & Assemblers,2.6
+2017 ,50-54,"Cleaners, Labourers & Related Workers",13.4
+2017 ,50-54,Others,0.2
+2017 ,55-59,Managers & Administrators (Including Working Proprietors),8.8
+2017 ,55-59,Professionals,8.3
+2017 ,55-59,Associate Professionals & Technicians,12.4
+2017 ,55-59,Clerical Support Workers,20.6
+2017 ,55-59,Service & Sales Workers,16.0
+2017 ,55-59,Craftsmen & Related Trade Workers,1.4
+2017 ,55-59,Plant & Machine Operators & Assemblers,2.8
+2017 ,55-59,"Cleaners, Labourers & Related Workers",14.4
+2017 ,55-59,Others,0.3
+2017 ,60-64,Managers & Administrators (Including Working Proprietors),5.5
+2017 ,60-64,Professionals,4.0
+2017 ,60-64,Associate Professionals & Technicians,6.0
+2017 ,60-64,Clerical Support Workers,13.7
+2017 ,60-64,Service & Sales Workers,13.7
+2017 ,60-64,Craftsmen & Related Trade Workers,1.4
+2017 ,60-64,Plant & Machine Operators & Assemblers,1.4
+2017 ,60-64,"Cleaners, Labourers & Related Workers",19.0
+2017 ,60-64,Others,0.1
+2017 ,65+,Managers & Administrators (Including Working Proprietors),3.1
+2017 ,65+,Professionals,2.2
+2017 ,65+,Associate Professionals & Technicians,3.4
+2017 ,65+,Clerical Support Workers,7.3
+2017 ,65+,Service & Sales Workers,10.4
+2017 ,65+,Craftsmen & Related Trade Workers,0.9
+2017 ,65+,Plant & Machine Operators & Assemblers,1.3
+2017 ,65+,"Cleaners, Labourers & Related Workers",24.5
+2017 ,65+,Others,0.1
+2016 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2016 ,15-19,Professionals,0.0
+2016 ,15-19,Associate Professionals & Technicians,1.3
+2016 ,15-19,Clerical Support Workers,3.1
+2016 ,15-19,Service & Sales Workers,7.0
+2016 ,15-19,Craftsmen & Related Trade Workers,0.1
+2016 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2016 ,15-19,"Cleaners, Labourers & Related Workers",1.0
+2016 ,15-19,Others,0.1
+2016 ,20-24,Managers & Administrators (Including Working Proprietors),0.4
+2016 ,20-24,Professionals,11.3
+2016 ,20-24,Associate Professionals & Technicians,20.7
+2016 ,20-24,Clerical Support Workers,19.2
+2016 ,20-24,Service & Sales Workers,14.3
+2016 ,20-24,Craftsmen & Related Trade Workers,0.5
+2016 ,20-24,Plant & Machine Operators & Assemblers,0.1
+2016 ,20-24,"Cleaners, Labourers & Related Workers",1.5
+2016 ,20-24,Others,0.3
+2016 ,25-29,Managers & Administrators (Including Working Proprietors),4.2
+2016 ,25-29,Professionals,41.7
+2016 ,25-29,Associate Professionals & Technicians,39.9
+2016 ,25-29,Clerical Support Workers,17.4
+2016 ,25-29,Service & Sales Workers,10.3
+2016 ,25-29,Craftsmen & Related Trade Workers,0.5
+2016 ,25-29,Plant & Machine Operators & Assemblers,0.2
+2016 ,25-29,"Cleaners, Labourers & Related Workers",2.0
+2016 ,25-29,Others,0.2
+2016 ,30-34,Managers & Administrators (Including Working Proprietors),15.8
+2016 ,30-34,Professionals,41.6
+2016 ,30-34,Associate Professionals & Technicians,31.0
+2016 ,30-34,Clerical Support Workers,16.7
+2016 ,30-34,Service & Sales Workers,9.9
+2016 ,30-34,Craftsmen & Related Trade Workers,0.3
+2016 ,30-34,Plant & Machine Operators & Assemblers,0.4
+2016 ,30-34,"Cleaners, Labourers & Related Workers",1.9
+2016 ,30-34,Others,0.1
+2016 ,35-39,Managers & Administrators (Including Working Proprietors),21.5
+2016 ,35-39,Professionals,34.1
+2016 ,35-39,Associate Professionals & Technicians,27.7
+2016 ,35-39,Clerical Support Workers,18.6
+2016 ,35-39,Service & Sales Workers,11.6
+2016 ,35-39,Craftsmen & Related Trade Workers,0.6
+2016 ,35-39,Plant & Machine Operators & Assemblers,1.4
+2016 ,35-39,"Cleaners, Labourers & Related Workers",3.2
+2016 ,35-39,Others,0.2
+2016 ,40-44,Managers & Administrators (Including Working Proprietors),23.7
+2016 ,40-44,Professionals,27.8
+2016 ,40-44,Associate Professionals & Technicians,25.7
+2016 ,40-44,Clerical Support Workers,22.7
+2016 ,40-44,Service & Sales Workers,14.6
+2016 ,40-44,Craftsmen & Related Trade Workers,0.9
+2016 ,40-44,Plant & Machine Operators & Assemblers,2.5
+2016 ,40-44,"Cleaners, Labourers & Related Workers",6.3
+2016 ,40-44,Others,0.3
+2016 ,45-49,Managers & Administrators (Including Working Proprietors),19.4
+2016 ,45-49,Professionals,19.4
+2016 ,45-49,Associate Professionals & Technicians,22.1
+2016 ,45-49,Clerical Support Workers,24.3
+2016 ,45-49,Service & Sales Workers,18.7
+2016 ,45-49,Craftsmen & Related Trade Workers,0.8
+2016 ,45-49,Plant & Machine Operators & Assemblers,2.9
+2016 ,45-49,"Cleaners, Labourers & Related Workers",8.3
+2016 ,45-49,Others,0.0
+2016 ,50-54,Managers & Administrators (Including Working Proprietors),15.2
+2016 ,50-54,Professionals,13.3
+2016 ,50-54,Associate Professionals & Technicians,17.8
+2016 ,50-54,Clerical Support Workers,25.4
+2016 ,50-54,Service & Sales Workers,19.5
+2016 ,50-54,Craftsmen & Related Trade Workers,1.5
+2016 ,50-54,Plant & Machine Operators & Assemblers,3.8
+2016 ,50-54,"Cleaners, Labourers & Related Workers",14.1
+2016 ,50-54,Others,0.3
+2016 ,55-59,Managers & Administrators (Including Working Proprietors),9.2
+2016 ,55-59,Professionals,8.5
+2016 ,55-59,Associate Professionals & Technicians,12.6
+2016 ,55-59,Clerical Support Workers,19.7
+2016 ,55-59,Service & Sales Workers,18.4
+2016 ,55-59,Craftsmen & Related Trade Workers,2.0
+2016 ,55-59,Plant & Machine Operators & Assemblers,3.4
+2016 ,55-59,"Cleaners, Labourers & Related Workers",17.9
+2016 ,55-59,Others,0.2
+2016 ,60-64,Managers & Administrators (Including Working Proprietors),4.6
+2016 ,60-64,Professionals,4.2
+2016 ,60-64,Associate Professionals & Technicians,6.6
+2016 ,60-64,Clerical Support Workers,11.8
+2016 ,60-64,Service & Sales Workers,13.5
+2016 ,60-64,Craftsmen & Related Trade Workers,1.3
+2016 ,60-64,Plant & Machine Operators & Assemblers,2.3
+2016 ,60-64,"Cleaners, Labourers & Related Workers",17.5
+2016 ,60-64,Others,0.0
+2016 ,65+,Managers & Administrators (Including Working Proprietors),3.1
+2016 ,65+,Professionals,2.8
+2016 ,65+,Associate Professionals & Technicians,3.0
+2016 ,65+,Clerical Support Workers,5.9
+2016 ,65+,Service & Sales Workers,9.1
+2016 ,65+,Craftsmen & Related Trade Workers,0.8
+2016 ,65+,Plant & Machine Operators & Assemblers,1.5
+2016 ,65+,"Cleaners, Labourers & Related Workers",21.6
+2016 ,65+,Others,0.0
+2015 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2015 ,15-19,Professionals,0.1
+2015 ,15-19,Associate Professionals & Technicians,1.3
+2015 ,15-19,Clerical Support Workers,4.5
+2015 ,15-19,Service & Sales Workers,6.7
+2015 ,15-19,Craftsmen & Related Trade Workers,0.1
+2015 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2015 ,15-19,"Cleaners, Labourers & Related Workers",1.1
+2015 ,15-19,Others,0.0
+2015 ,20-24,Managers & Administrators (Including Working Proprietors),0.9
+2015 ,20-24,Professionals,12.4
+2015 ,20-24,Associate Professionals & Technicians,23.0
+2015 ,20-24,Clerical Support Workers,21.3
+2015 ,20-24,Service & Sales Workers,13.3
+2015 ,20-24,Craftsmen & Related Trade Workers,0.6
+2015 ,20-24,Plant & Machine Operators & Assemblers,0.0
+2015 ,20-24,"Cleaners, Labourers & Related Workers",1.1
+2015 ,20-24,Others,0.1
+2015 ,25-29,Managers & Administrators (Including Working Proprietors),5.6
+2015 ,25-29,Professionals,36.9
+2015 ,25-29,Associate Professionals & Technicians,33.7
+2015 ,25-29,Clerical Support Workers,17.7
+2015 ,25-29,Service & Sales Workers,10.2
+2015 ,25-29,Craftsmen & Related Trade Workers,0.4
+2015 ,25-29,Plant & Machine Operators & Assemblers,0.2
+2015 ,25-29,"Cleaners, Labourers & Related Workers",1.2
+2015 ,25-29,Others,0.4
+2015 ,30-34,Managers & Administrators (Including Working Proprietors),16.0
+2015 ,30-34,Professionals,39.5
+2015 ,30-34,Associate Professionals & Technicians,27.1
+2015 ,30-34,Clerical Support Workers,20.3
+2015 ,30-34,Service & Sales Workers,10.1
+2015 ,30-34,Craftsmen & Related Trade Workers,0.7
+2015 ,30-34,Plant & Machine Operators & Assemblers,0.8
+2015 ,30-34,"Cleaners, Labourers & Related Workers",1.6
+2015 ,30-34,Others,0.3
+2015 ,35-39,Managers & Administrators (Including Working Proprietors),21.6
+2015 ,35-39,Professionals,35.7
+2015 ,35-39,Associate Professionals & Technicians,29.3
+2015 ,35-39,Clerical Support Workers,21.9
+2015 ,35-39,Service & Sales Workers,12.3
+2015 ,35-39,Craftsmen & Related Trade Workers,0.6
+2015 ,35-39,Plant & Machine Operators & Assemblers,1.4
+2015 ,35-39,"Cleaners, Labourers & Related Workers",3.8
+2015 ,35-39,Others,0.4
+2015 ,40-44,Managers & Administrators (Including Working Proprietors),24.9
+2015 ,40-44,Professionals,26.4
+2015 ,40-44,Associate Professionals & Technicians,24.6
+2015 ,40-44,Clerical Support Workers,25.5
+2015 ,40-44,Service & Sales Workers,14.5
+2015 ,40-44,Craftsmen & Related Trade Workers,1.0
+2015 ,40-44,Plant & Machine Operators & Assemblers,2.3
+2015 ,40-44,"Cleaners, Labourers & Related Workers",5.6
+2015 ,40-44,Others,0.0
+2015 ,45-49,Managers & Administrators (Including Working Proprietors),19.7
+2015 ,45-49,Professionals,17.1
+2015 ,45-49,Associate Professionals & Technicians,20.3
+2015 ,45-49,Clerical Support Workers,25.7
+2015 ,45-49,Service & Sales Workers,17.4
+2015 ,45-49,Craftsmen & Related Trade Workers,1.3
+2015 ,45-49,Plant & Machine Operators & Assemblers,2.7
+2015 ,45-49,"Cleaners, Labourers & Related Workers",9.3
+2015 ,45-49,Others,0.2
+2015 ,50-54,Managers & Administrators (Including Working Proprietors),14.8
+2015 ,50-54,Professionals,11.4
+2015 ,50-54,Associate Professionals & Technicians,16.5
+2015 ,50-54,Clerical Support Workers,27.6
+2015 ,50-54,Service & Sales Workers,19.1
+2015 ,50-54,Craftsmen & Related Trade Workers,1.6
+2015 ,50-54,Plant & Machine Operators & Assemblers,4.0
+2015 ,50-54,"Cleaners, Labourers & Related Workers",14.3
+2015 ,50-54,Others,0.3
+2015 ,55-59,Managers & Administrators (Including Working Proprietors),10.1
+2015 ,55-59,Professionals,9.1
+2015 ,55-59,Associate Professionals & Technicians,10.3
+2015 ,55-59,Clerical Support Workers,21.6
+2015 ,55-59,Service & Sales Workers,15.6
+2015 ,55-59,Craftsmen & Related Trade Workers,1.9
+2015 ,55-59,Plant & Machine Operators & Assemblers,3.0
+2015 ,55-59,"Cleaners, Labourers & Related Workers",18.2
+2015 ,55-59,Others,0.1
+2015 ,60-64,Managers & Administrators (Including Working Proprietors),4.7
+2015 ,60-64,Professionals,3.7
+2015 ,60-64,Associate Professionals & Technicians,5.3
+2015 ,60-64,Clerical Support Workers,13.2
+2015 ,60-64,Service & Sales Workers,11.4
+2015 ,60-64,Craftsmen & Related Trade Workers,0.8
+2015 ,60-64,Plant & Machine Operators & Assemblers,1.9
+2015 ,60-64,"Cleaners, Labourers & Related Workers",16.8
+2015 ,60-64,Others,0.0
+2015 ,65+,Managers & Administrators (Including Working Proprietors),2.3
+2015 ,65+,Professionals,2.5
+2015 ,65+,Associate Professionals & Technicians,2.4
+2015 ,65+,Clerical Support Workers,5.1
+2015 ,65+,Service & Sales Workers,8.0
+2015 ,65+,Craftsmen & Related Trade Workers,0.8
+2015 ,65+,Plant & Machine Operators & Assemblers,0.9
+2015 ,65+,"Cleaners, Labourers & Related Workers",21.8
+2015 ,65+,Others,0.1
+2014 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2014 ,15-19,Professionals,0.2
+2014 ,15-19,Associate Professionals & Technicians,0.9
+2014 ,15-19,Clerical Support Workers,3.2
+2014 ,15-19,Service & Sales Workers,4.7
+2014 ,15-19,Craftsmen & Related Trade Workers,0.1
+2014 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2014 ,15-19,"Cleaners, Labourers & Related Workers",0.9
+2014 ,15-19,Others,0.0
+2014 ,20-24,Managers & Administrators (Including Working Proprietors),0.4
+2014 ,20-24,Professionals,11.9
+2014 ,20-24,Associate Professionals & Technicians,16.8
+2014 ,20-24,Clerical Support Workers,22.1
+2014 ,20-24,Service & Sales Workers,13.4
+2014 ,20-24,Craftsmen & Related Trade Workers,0.4
+2014 ,20-24,Plant & Machine Operators & Assemblers,0.6
+2014 ,20-24,"Cleaners, Labourers & Related Workers",1.7
+2014 ,20-24,Others,0.2
+2014 ,25-29,Managers & Administrators (Including Working Proprietors),6.4
+2014 ,25-29,Professionals,35.5
+2014 ,25-29,Associate Professionals & Technicians,32.0
+2014 ,25-29,Clerical Support Workers,18.1
+2014 ,25-29,Service & Sales Workers,9.3
+2014 ,25-29,Craftsmen & Related Trade Workers,0.4
+2014 ,25-29,Plant & Machine Operators & Assemblers,0.3
+2014 ,25-29,"Cleaners, Labourers & Related Workers",0.8
+2014 ,25-29,Others,0.2
+2014 ,30-34,Managers & Administrators (Including Working Proprietors),15.5
+2014 ,30-34,Professionals,38.7
+2014 ,30-34,Associate Professionals & Technicians,31.1
+2014 ,30-34,Clerical Support Workers,19.8
+2014 ,30-34,Service & Sales Workers,10.8
+2014 ,30-34,Craftsmen & Related Trade Workers,0.3
+2014 ,30-34,Plant & Machine Operators & Assemblers,0.8
+2014 ,30-34,"Cleaners, Labourers & Related Workers",1.7
+2014 ,30-34,Others,0.3
+2014 ,35-39,Managers & Administrators (Including Working Proprietors),21.7
+2014 ,35-39,Professionals,28.0
+2014 ,35-39,Associate Professionals & Technicians,29.5
+2014 ,35-39,Clerical Support Workers,20.7
+2014 ,35-39,Service & Sales Workers,11.5
+2014 ,35-39,Craftsmen & Related Trade Workers,0.4
+2014 ,35-39,Plant & Machine Operators & Assemblers,1.2
+2014 ,35-39,"Cleaners, Labourers & Related Workers",3.4
+2014 ,35-39,Others,0.3
+2014 ,40-44,Managers & Administrators (Including Working Proprietors),24.1
+2014 ,40-44,Professionals,22.9
+2014 ,40-44,Associate Professionals & Technicians,25.0
+2014 ,40-44,Clerical Support Workers,24.9
+2014 ,40-44,Service & Sales Workers,13.8
+2014 ,40-44,Craftsmen & Related Trade Workers,0.7
+2014 ,40-44,Plant & Machine Operators & Assemblers,2.4
+2014 ,40-44,"Cleaners, Labourers & Related Workers",5.5
+2014 ,40-44,Others,0.2
+2014 ,45-49,Managers & Administrators (Including Working Proprietors),17.4
+2014 ,45-49,Professionals,16.9
+2014 ,45-49,Associate Professionals & Technicians,20.2
+2014 ,45-49,Clerical Support Workers,25.1
+2014 ,45-49,Service & Sales Workers,16.1
+2014 ,45-49,Craftsmen & Related Trade Workers,0.5
+2014 ,45-49,Plant & Machine Operators & Assemblers,3.6
+2014 ,45-49,"Cleaners, Labourers & Related Workers",10.1
+2014 ,45-49,Others,0.0
+2014 ,50-54,Managers & Administrators (Including Working Proprietors),16.0
+2014 ,50-54,Professionals,12.0
+2014 ,50-54,Associate Professionals & Technicians,14.9
+2014 ,50-54,Clerical Support Workers,26.7
+2014 ,50-54,Service & Sales Workers,18.6
+2014 ,50-54,Craftsmen & Related Trade Workers,1.3
+2014 ,50-54,Plant & Machine Operators & Assemblers,4.8
+2014 ,50-54,"Cleaners, Labourers & Related Workers",17.2
+2014 ,50-54,Others,0.2
+2014 ,55-59,Managers & Administrators (Including Working Proprietors),9.3
+2014 ,55-59,Professionals,6.4
+2014 ,55-59,Associate Professionals & Technicians,10.9
+2014 ,55-59,Clerical Support Workers,23.6
+2014 ,55-59,Service & Sales Workers,16.2
+2014 ,55-59,Craftsmen & Related Trade Workers,1.5
+2014 ,55-59,Plant & Machine Operators & Assemblers,2.9
+2014 ,55-59,"Cleaners, Labourers & Related Workers",18.6
+2014 ,55-59,Others,0.2
+2014 ,60-64,Managers & Administrators (Including Working Proprietors),4.3
+2014 ,60-64,Professionals,3.5
+2014 ,60-64,Associate Professionals & Technicians,5.2
+2014 ,60-64,Clerical Support Workers,12.0
+2014 ,60-64,Service & Sales Workers,11.3
+2014 ,60-64,Craftsmen & Related Trade Workers,0.7
+2014 ,60-64,Plant & Machine Operators & Assemblers,1.9
+2014 ,60-64,"Cleaners, Labourers & Related Workers",15.2
+2014 ,60-64,Others,0.0
+2014 ,65+,Managers & Administrators (Including Working Proprietors),2.9
+2014 ,65+,Professionals,2.0
+2014 ,65+,Associate Professionals & Technicians,2.3
+2014 ,65+,Clerical Support Workers,5.7
+2014 ,65+,Service & Sales Workers,7.9
+2014 ,65+,Craftsmen & Related Trade Workers,0.6
+2014 ,65+,Plant & Machine Operators & Assemblers,0.8
+2014 ,65+,"Cleaners, Labourers & Related Workers",18.9
+2014 ,65+,Others,0.0
+2013 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2013 ,15-19,Professionals,0.3
+2013 ,15-19,Associate Professionals & Technicians,1.4
+2013 ,15-19,Clerical Support Workers,3.4
+2013 ,15-19,Service & Sales Workers,5.4
+2013 ,15-19,Craftsmen & Related Trade Workers,0.1
+2013 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2013 ,15-19,"Cleaners, Labourers & Related Workers",0.6
+2013 ,15-19,Others,0.0
+2013 ,20-24,Managers & Administrators (Including Working Proprietors),1.1
+2013 ,20-24,Professionals,10.8
+2013 ,20-24,Associate Professionals & Technicians,15.0
+2013 ,20-24,Clerical Support Workers,22.0
+2013 ,20-24,Service & Sales Workers,12.6
+2013 ,20-24,Craftsmen & Related Trade Workers,0.4
+2013 ,20-24,Plant & Machine Operators & Assemblers,0.3
+2013 ,20-24,"Cleaners, Labourers & Related Workers",0.7
+2013 ,20-24,Others,0.1
+2013 ,25-29,Managers & Administrators (Including Working Proprietors),6.7
+2013 ,25-29,Professionals,33.6
+2013 ,25-29,Associate Professionals & Technicians,26.5
+2013 ,25-29,Clerical Support Workers,22.0
+2013 ,25-29,Service & Sales Workers,10.9
+2013 ,25-29,Craftsmen & Related Trade Workers,0.2
+2013 ,25-29,Plant & Machine Operators & Assemblers,0.7
+2013 ,25-29,"Cleaners, Labourers & Related Workers",1.6
+2013 ,25-29,Others,0.2
+2013 ,30-34,Managers & Administrators (Including Working Proprietors),17.6
+2013 ,30-34,Professionals,37.7
+2013 ,30-34,Associate Professionals & Technicians,25.0
+2013 ,30-34,Clerical Support Workers,23.0
+2013 ,30-34,Service & Sales Workers,12.0
+2013 ,30-34,Craftsmen & Related Trade Workers,0.3
+2013 ,30-34,Plant & Machine Operators & Assemblers,0.6
+2013 ,30-34,"Cleaners, Labourers & Related Workers",2.0
+2013 ,30-34,Others,0.1
+2013 ,35-39,Managers & Administrators (Including Working Proprietors),23.1
+2013 ,35-39,Professionals,30.5
+2013 ,35-39,Associate Professionals & Technicians,25.9
+2013 ,35-39,Clerical Support Workers,22.3
+2013 ,35-39,Service & Sales Workers,12.5
+2013 ,35-39,Craftsmen & Related Trade Workers,0.2
+2013 ,35-39,Plant & Machine Operators & Assemblers,1.9
+2013 ,35-39,"Cleaners, Labourers & Related Workers",2.5
+2013 ,35-39,Others,0.1
+2013 ,40-44,Managers & Administrators (Including Working Proprietors),23.9
+2013 ,40-44,Professionals,22.9
+2013 ,40-44,Associate Professionals & Technicians,21.2
+2013 ,40-44,Clerical Support Workers,27.8
+2013 ,40-44,Service & Sales Workers,13.2
+2013 ,40-44,Craftsmen & Related Trade Workers,1.0
+2013 ,40-44,Plant & Machine Operators & Assemblers,3.1
+2013 ,40-44,"Cleaners, Labourers & Related Workers",5.8
+2013 ,40-44,Others,0.0
+2013 ,45-49,Managers & Administrators (Including Working Proprietors),18.3
+2013 ,45-49,Professionals,15.5
+2013 ,45-49,Associate Professionals & Technicians,18.7
+2013 ,45-49,Clerical Support Workers,27.3
+2013 ,45-49,Service & Sales Workers,18.4
+2013 ,45-49,Craftsmen & Related Trade Workers,1.2
+2013 ,45-49,Plant & Machine Operators & Assemblers,4.2
+2013 ,45-49,"Cleaners, Labourers & Related Workers",8.9
+2013 ,45-49,Others,0.1
+2013 ,50-54,Managers & Administrators (Including Working Proprietors),14.9
+2013 ,50-54,Professionals,12.4
+2013 ,50-54,Associate Professionals & Technicians,15.0
+2013 ,50-54,Clerical Support Workers,25.2
+2013 ,50-54,Service & Sales Workers,17.3
+2013 ,50-54,Craftsmen & Related Trade Workers,1.3
+2013 ,50-54,Plant & Machine Operators & Assemblers,4.6
+2013 ,50-54,"Cleaners, Labourers & Related Workers",14.4
+2013 ,50-54,Others,0.1
+2013 ,55-59,Managers & Administrators (Including Working Proprietors),8.3
+2013 ,55-59,Professionals,7.9
+2013 ,55-59,Associate Professionals & Technicians,10.6
+2013 ,55-59,Clerical Support Workers,19.9
+2013 ,55-59,Service & Sales Workers,13.6
+2013 ,55-59,Craftsmen & Related Trade Workers,1.4
+2013 ,55-59,Plant & Machine Operators & Assemblers,3.4
+2013 ,55-59,"Cleaners, Labourers & Related Workers",15.6
+2013 ,55-59,Others,0.1
+2013 ,60-64,Managers & Administrators (Including Working Proprietors),4.5
+2013 ,60-64,Professionals,2.8
+2013 ,60-64,Associate Professionals & Technicians,3.6
+2013 ,60-64,Clerical Support Workers,10.4
+2013 ,60-64,Service & Sales Workers,9.8
+2013 ,60-64,Craftsmen & Related Trade Workers,0.7
+2013 ,60-64,Plant & Machine Operators & Assemblers,2.1
+2013 ,60-64,"Cleaners, Labourers & Related Workers",15.3
+2013 ,60-64,Others,0.0
+2013 ,65+,Managers & Administrators (Including Working Proprietors),2.5
+2013 ,65+,Professionals,1.9
+2013 ,65+,Associate Professionals & Technicians,1.4
+2013 ,65+,Clerical Support Workers,3.5
+2013 ,65+,Service & Sales Workers,7.0
+2013 ,65+,Craftsmen & Related Trade Workers,0.7
+2013 ,65+,Plant & Machine Operators & Assemblers,0.8
+2013 ,65+,"Cleaners, Labourers & Related Workers",15.4
+2013 ,65+,Others,0.1
+2012 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2012 ,15-19,Professionals,0.3
+2012 ,15-19,Associate Professionals & Technicians,1.6
+2012 ,15-19,Clerical Support Workers,4.5
+2012 ,15-19,Service & Sales Workers,5.4
+2012 ,15-19,Craftsmen & Related Trade Workers,0.0
+2012 ,15-19,Plant & Machine Operators & Assemblers,0.0
+2012 ,15-19,"Cleaners, Labourers & Related Workers",0.7
+2012 ,15-19,Others,0.0
+2012 ,20-24,Managers & Administrators (Including Working Proprietors),1.5
+2012 ,20-24,Professionals,14.0
+2012 ,20-24,Associate Professionals & Technicians,16.4
+2012 ,20-24,Clerical Support Workers,23.3
+2012 ,20-24,Service & Sales Workers,14.0
+2012 ,20-24,Craftsmen & Related Trade Workers,0.2
+2012 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2012 ,20-24,"Cleaners, Labourers & Related Workers",1.5
+2012 ,20-24,Others,0.1
+2012 ,25-29,Managers & Administrators (Including Working Proprietors),7.6
+2012 ,25-29,Professionals,34.2
+2012 ,25-29,Associate Professionals & Technicians,24.4
+2012 ,25-29,Clerical Support Workers,21.1
+2012 ,25-29,Service & Sales Workers,9.8
+2012 ,25-29,Craftsmen & Related Trade Workers,0.6
+2012 ,25-29,Plant & Machine Operators & Assemblers,0.5
+2012 ,25-29,"Cleaners, Labourers & Related Workers",0.9
+2012 ,25-29,Others,0.1
+2012 ,30-34,Managers & Administrators (Including Working Proprietors),18.5
+2012 ,30-34,Professionals,37.4
+2012 ,30-34,Associate Professionals & Technicians,24.9
+2012 ,30-34,Clerical Support Workers,22.1
+2012 ,30-34,Service & Sales Workers,11.1
+2012 ,30-34,Craftsmen & Related Trade Workers,0.2
+2012 ,30-34,Plant & Machine Operators & Assemblers,1.1
+2012 ,30-34,"Cleaners, Labourers & Related Workers",1.9
+2012 ,30-34,Others,0.3
+2012 ,35-39,Managers & Administrators (Including Working Proprietors),23.0
+2012 ,35-39,Professionals,29.5
+2012 ,35-39,Associate Professionals & Technicians,23.4
+2012 ,35-39,Clerical Support Workers,24.8
+2012 ,35-39,Service & Sales Workers,13.8
+2012 ,35-39,Craftsmen & Related Trade Workers,1.0
+2012 ,35-39,Plant & Machine Operators & Assemblers,2.5
+2012 ,35-39,"Cleaners, Labourers & Related Workers",3.1
+2012 ,35-39,Others,0.0
+2012 ,40-44,Managers & Administrators (Including Working Proprietors),22.8
+2012 ,40-44,Professionals,21.4
+2012 ,40-44,Associate Professionals & Technicians,21.8
+2012 ,40-44,Clerical Support Workers,26.9
+2012 ,40-44,Service & Sales Workers,14.6
+2012 ,40-44,Craftsmen & Related Trade Workers,1.0
+2012 ,40-44,Plant & Machine Operators & Assemblers,3.5
+2012 ,40-44,"Cleaners, Labourers & Related Workers",5.9
+2012 ,40-44,Others,0.1
+2012 ,45-49,Managers & Administrators (Including Working Proprietors),18.5
+2012 ,45-49,Professionals,13.9
+2012 ,45-49,Associate Professionals & Technicians,17.1
+2012 ,45-49,Clerical Support Workers,28.4
+2012 ,45-49,Service & Sales Workers,20.4
+2012 ,45-49,Craftsmen & Related Trade Workers,1.0
+2012 ,45-49,Plant & Machine Operators & Assemblers,4.7
+2012 ,45-49,"Cleaners, Labourers & Related Workers",10.6
+2012 ,45-49,Others,0.1
+2012 ,50-54,Managers & Administrators (Including Working Proprietors),14.5
+2012 ,50-54,Professionals,9.6
+2012 ,50-54,Associate Professionals & Technicians,12.7
+2012 ,50-54,Clerical Support Workers,24.9
+2012 ,50-54,Service & Sales Workers,18.7
+2012 ,50-54,Craftsmen & Related Trade Workers,1.4
+2012 ,50-54,Plant & Machine Operators & Assemblers,4.9
+2012 ,50-54,"Cleaners, Labourers & Related Workers",13.7
+2012 ,50-54,Others,0.0
+2012 ,55-59,Managers & Administrators (Including Working Proprietors),7.6
+2012 ,55-59,Professionals,6.3
+2012 ,55-59,Associate Professionals & Technicians,8.5
+2012 ,55-59,Clerical Support Workers,17.4
+2012 ,55-59,Service & Sales Workers,13.6
+2012 ,55-59,Craftsmen & Related Trade Workers,1.2
+2012 ,55-59,Plant & Machine Operators & Assemblers,3.7
+2012 ,55-59,"Cleaners, Labourers & Related Workers",15.7
+2012 ,55-59,Others,0.0
+2012 ,60-64,Managers & Administrators (Including Working Proprietors),4.1
+2012 ,60-64,Professionals,2.9
+2012 ,60-64,Associate Professionals & Technicians,3.3
+2012 ,60-64,Clerical Support Workers,7.4
+2012 ,60-64,Service & Sales Workers,9.4
+2012 ,60-64,Craftsmen & Related Trade Workers,1.0
+2012 ,60-64,Plant & Machine Operators & Assemblers,1.6
+2012 ,60-64,"Cleaners, Labourers & Related Workers",14.5
+2012 ,60-64,Others,0.0
+2012 ,65+,Managers & Administrators (Including Working Proprietors),2.0
+2012 ,65+,Professionals,1.4
+2012 ,65+,Associate Professionals & Technicians,1.7
+2012 ,65+,Clerical Support Workers,3.5
+2012 ,65+,Service & Sales Workers,6.0
+2012 ,65+,Craftsmen & Related Trade Workers,1.0
+2012 ,65+,Plant & Machine Operators & Assemblers,0.7
+2012 ,65+,"Cleaners, Labourers & Related Workers",12.3
+2012 ,65+,Others,0.0
+2011 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2011 ,15-19,Professionals,0.2
+2011 ,15-19,Associate Professionals & Technicians,1.1
+2011 ,15-19,Clerical Support Workers,3.5
+2011 ,15-19,Service & Sales Workers,5.1
+2011 ,15-19,Craftsmen & Related Trade Workers,0.0
+2011 ,15-19,Plant & Machine Operators & Assemblers,0.0
+2011 ,15-19,"Cleaners, Labourers & Related Workers",0.7
+2011 ,15-19,Others,0.0
+2011 ,20-24,Managers & Administrators (Including Working Proprietors),1.4
+2011 ,20-24,Professionals,14.6
+2011 ,20-24,Associate Professionals & Technicians,16.0
+2011 ,20-24,Clerical Support Workers,22.8
+2011 ,20-24,Service & Sales Workers,13.4
+2011 ,20-24,Craftsmen & Related Trade Workers,0.2
+2011 ,20-24,Plant & Machine Operators & Assemblers,0.4
+2011 ,20-24,"Cleaners, Labourers & Related Workers",1.6
+2011 ,20-24,Others,0.1
+2011 ,25-29,Managers & Administrators (Including Working Proprietors),9.9
+2011 ,25-29,Professionals,34.6
+2011 ,25-29,Associate Professionals & Technicians,25.9
+2011 ,25-29,Clerical Support Workers,19.4
+2011 ,25-29,Service & Sales Workers,10.0
+2011 ,25-29,Craftsmen & Related Trade Workers,0.2
+2011 ,25-29,Plant & Machine Operators & Assemblers,0.7
+2011 ,25-29,"Cleaners, Labourers & Related Workers",1.0
+2011 ,25-29,Others,0.2
+2011 ,30-34,Managers & Administrators (Including Working Proprietors),19.5
+2011 ,30-34,Professionals,36.7
+2011 ,30-34,Associate Professionals & Technicians,24.6
+2011 ,30-34,Clerical Support Workers,22.1
+2011 ,30-34,Service & Sales Workers,11.0
+2011 ,30-34,Craftsmen & Related Trade Workers,0.3
+2011 ,30-34,Plant & Machine Operators & Assemblers,1.1
+2011 ,30-34,"Cleaners, Labourers & Related Workers",1.9
+2011 ,30-34,Others,0.2
+2011 ,35-39,Managers & Administrators (Including Working Proprietors),25.0
+2011 ,35-39,Professionals,28.7
+2011 ,35-39,Associate Professionals & Technicians,24.2
+2011 ,35-39,Clerical Support Workers,23.9
+2011 ,35-39,Service & Sales Workers,11.6
+2011 ,35-39,Craftsmen & Related Trade Workers,0.6
+2011 ,35-39,Plant & Machine Operators & Assemblers,2.5
+2011 ,35-39,"Cleaners, Labourers & Related Workers",3.4
+2011 ,35-39,Others,0.1
+2011 ,40-44,Managers & Administrators (Including Working Proprietors),21.9
+2011 ,40-44,Professionals,19.6
+2011 ,40-44,Associate Professionals & Technicians,21.3
+2011 ,40-44,Clerical Support Workers,25.9
+2011 ,40-44,Service & Sales Workers,13.7
+2011 ,40-44,Craftsmen & Related Trade Workers,0.7
+2011 ,40-44,Plant & Machine Operators & Assemblers,4.1
+2011 ,40-44,"Cleaners, Labourers & Related Workers",5.9
+2011 ,40-44,Others,0.2
+2011 ,45-49,Managers & Administrators (Including Working Proprietors),19.4
+2011 ,45-49,Professionals,13.6
+2011 ,45-49,Associate Professionals & Technicians,16.3
+2011 ,45-49,Clerical Support Workers,25.2
+2011 ,45-49,Service & Sales Workers,18.2
+2011 ,45-49,Craftsmen & Related Trade Workers,1.1
+2011 ,45-49,Plant & Machine Operators & Assemblers,5.8
+2011 ,45-49,"Cleaners, Labourers & Related Workers",11.3
+2011 ,45-49,Others,0.3
+2011 ,50-54,Managers & Administrators (Including Working Proprietors),13.5
+2011 ,50-54,Professionals,8.6
+2011 ,50-54,Associate Professionals & Technicians,12.7
+2011 ,50-54,Clerical Support Workers,23.9
+2011 ,50-54,Service & Sales Workers,18.3
+2011 ,50-54,Craftsmen & Related Trade Workers,1.6
+2011 ,50-54,Plant & Machine Operators & Assemblers,4.9
+2011 ,50-54,"Cleaners, Labourers & Related Workers",16.0
+2011 ,50-54,Others,0.2
+2011 ,55-59,Managers & Administrators (Including Working Proprietors),7.8
+2011 ,55-59,Professionals,5.1
+2011 ,55-59,Associate Professionals & Technicians,8.0
+2011 ,55-59,Clerical Support Workers,16.6
+2011 ,55-59,Service & Sales Workers,13.8
+2011 ,55-59,Craftsmen & Related Trade Workers,1.3
+2011 ,55-59,Plant & Machine Operators & Assemblers,3.9
+2011 ,55-59,"Cleaners, Labourers & Related Workers",15.7
+2011 ,55-59,Others,0.0
+2011 ,60-64,Managers & Administrators (Including Working Proprietors),3.0
+2011 ,60-64,Professionals,2.3
+2011 ,60-64,Associate Professionals & Technicians,3.0
+2011 ,60-64,Clerical Support Workers,7.3
+2011 ,60-64,Service & Sales Workers,8.3
+2011 ,60-64,Craftsmen & Related Trade Workers,0.9
+2011 ,60-64,Plant & Machine Operators & Assemblers,1.7
+2011 ,60-64,"Cleaners, Labourers & Related Workers",12.4
+2011 ,60-64,Others,0.0
+2011 ,65+,Managers & Administrators (Including Working Proprietors),2.0
+2011 ,65+,Professionals,1.3
+2011 ,65+,Associate Professionals & Technicians,1.4
+2011 ,65+,Clerical Support Workers,1.6
+2011 ,65+,Service & Sales Workers,4.1
+2011 ,65+,Craftsmen & Related Trade Workers,0.6
+2011 ,65+,Plant & Machine Operators & Assemblers,0.5
+2011 ,65+,"Cleaners, Labourers & Related Workers",12.8
+2011 ,65+,Others,0.0
+2010 ,15-19,Managers & Administrators (Including Working Proprietors),0.1
+2010 ,15-19,Professionals,0.6
+2010 ,15-19,Associate Professionals & Technicians,2.0
+2010 ,15-19,Clerical Support Workers,4.6
+2010 ,15-19,Service & Sales Workers,6.0
+2010 ,15-19,Craftsmen & Related Trade Workers,0.1
+2010 ,15-19,Plant & Machine Operators & Assemblers,0.0
+2010 ,15-19,"Cleaners, Labourers & Related Workers",0.6
+2010 ,15-19,Others,0.0
+2010 ,20-24,Managers & Administrators (Including Working Proprietors),1.4
+2010 ,20-24,Professionals,14.7
+2010 ,20-24,Associate Professionals & Technicians,15.0
+2010 ,20-24,Clerical Support Workers,20.6
+2010 ,20-24,Service & Sales Workers,12.2
+2010 ,20-24,Craftsmen & Related Trade Workers,0.4
+2010 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2010 ,20-24,"Cleaners, Labourers & Related Workers",1.1
+2010 ,20-24,Others,0.3
+2010 ,25-29,Managers & Administrators (Including Working Proprietors),10.6
+2010 ,25-29,Professionals,37.6
+2010 ,25-29,Associate Professionals & Technicians,21.9
+2010 ,25-29,Clerical Support Workers,20.0
+2010 ,25-29,Service & Sales Workers,10.7
+2010 ,25-29,Craftsmen & Related Trade Workers,0.2
+2010 ,25-29,Plant & Machine Operators & Assemblers,0.9
+2010 ,25-29,"Cleaners, Labourers & Related Workers",1.2
+2010 ,25-29,Others,0.5
+2010 ,30-34,Managers & Administrators (Including Working Proprietors),20.1
+2010 ,30-34,Professionals,36.1
+2010 ,30-34,Associate Professionals & Technicians,22.6
+2010 ,30-34,Clerical Support Workers,24.6
+2010 ,30-34,Service & Sales Workers,11.2
+2010 ,30-34,Craftsmen & Related Trade Workers,0.4
+2010 ,30-34,Plant & Machine Operators & Assemblers,1.5
+2010 ,30-34,"Cleaners, Labourers & Related Workers",1.7
+2010 ,30-34,Others,0.2
+2010 ,35-39,Managers & Administrators (Including Working Proprietors),24.8
+2010 ,35-39,Professionals,29.1
+2010 ,35-39,Associate Professionals & Technicians,20.0
+2010 ,35-39,Clerical Support Workers,26.5
+2010 ,35-39,Service & Sales Workers,13.4
+2010 ,35-39,Craftsmen & Related Trade Workers,0.8
+2010 ,35-39,Plant & Machine Operators & Assemblers,3.2
+2010 ,35-39,"Cleaners, Labourers & Related Workers",3.7
+2010 ,35-39,Others,0.2
+2010 ,40-44,Managers & Administrators (Including Working Proprietors),20.5
+2010 ,40-44,Professionals,18.0
+2010 ,40-44,Associate Professionals & Technicians,17.9
+2010 ,40-44,Clerical Support Workers,24.8
+2010 ,40-44,Service & Sales Workers,14.6
+2010 ,40-44,Craftsmen & Related Trade Workers,1.1
+2010 ,40-44,Plant & Machine Operators & Assemblers,4.2
+2010 ,40-44,"Cleaners, Labourers & Related Workers",7.0
+2010 ,40-44,Others,0.2
+2010 ,45-49,Managers & Administrators (Including Working Proprietors),17.1
+2010 ,45-49,Professionals,13.4
+2010 ,45-49,Associate Professionals & Technicians,15.8
+2010 ,45-49,Clerical Support Workers,27.1
+2010 ,45-49,Service & Sales Workers,16.9
+2010 ,45-49,Craftsmen & Related Trade Workers,1.5
+2010 ,45-49,Plant & Machine Operators & Assemblers,4.8
+2010 ,45-49,"Cleaners, Labourers & Related Workers",12.5
+2010 ,45-49,Others,0.2
+2010 ,50-54,Managers & Administrators (Including Working Proprietors),12.5
+2010 ,50-54,Professionals,9.4
+2010 ,50-54,Associate Professionals & Technicians,11.6
+2010 ,50-54,Clerical Support Workers,21.2
+2010 ,50-54,Service & Sales Workers,17.7
+2010 ,50-54,Craftsmen & Related Trade Workers,1.6
+2010 ,50-54,Plant & Machine Operators & Assemblers,6.2
+2010 ,50-54,"Cleaners, Labourers & Related Workers",15.2
+2010 ,50-54,Others,0.1
+2010 ,55-59,Managers & Administrators (Including Working Proprietors),7.8
+2010 ,55-59,Professionals,5.8
+2010 ,55-59,Associate Professionals & Technicians,5.8
+2010 ,55-59,Clerical Support Workers,13.8
+2010 ,55-59,Service & Sales Workers,12.8
+2010 ,55-59,Craftsmen & Related Trade Workers,1.0
+2010 ,55-59,Plant & Machine Operators & Assemblers,3.2
+2010 ,55-59,"Cleaners, Labourers & Related Workers",15.5
+2010 ,55-59,Others,0.1
+2010 ,60-64,Managers & Administrators (Including Working Proprietors),3.0
+2010 ,60-64,Professionals,2.6
+2010 ,60-64,Associate Professionals & Technicians,2.8
+2010 ,60-64,Clerical Support Workers,6.3
+2010 ,60-64,Service & Sales Workers,6.5
+2010 ,60-64,Craftsmen & Related Trade Workers,0.6
+2010 ,60-64,Plant & Machine Operators & Assemblers,1.3
+2010 ,60-64,"Cleaners, Labourers & Related Workers",10.9
+2010 ,60-64,Others,0.2
+2010 ,65+,Managers & Administrators (Including Working Proprietors),1.6
+2010 ,65+,Professionals,1.0
+2010 ,65+,Associate Professionals & Technicians,1.0
+2010 ,65+,Clerical Support Workers,1.1
+2010 ,65+,Service & Sales Workers,3.6
+2010 ,65+,Craftsmen & Related Trade Workers,0.8
+2010 ,65+,Plant & Machine Operators & Assemblers,0.5
+2010 ,65+,"Cleaners, Labourers & Related Workers",9.5
+2010 ,65+,Others,0.0
+2009 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2009 ,15-19,Professionals,0.0
+2009 ,15-19,Associate Professionals & Technicians,1.0
+2009 ,15-19,Clerical Support Workers,3.5
+2009 ,15-19,Service & Sales Workers,5.1
+2009 ,15-19,Craftsmen & Related Trade Workers,0.0
+2009 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2009 ,15-19,"Cleaners, Labourers & Related Workers",0.8
+2009 ,15-19,Others,0.0
+2009 ,20-24,Managers & Administrators (Including Working Proprietors),1.0
+2009 ,20-24,Professionals,11.4
+2009 ,20-24,Associate Professionals & Technicians,15.3
+2009 ,20-24,Clerical Support Workers,17.8
+2009 ,20-24,Service & Sales Workers,10.1
+2009 ,20-24,Craftsmen & Related Trade Workers,0.0
+2009 ,20-24,Plant & Machine Operators & Assemblers,0.4
+2009 ,20-24,"Cleaners, Labourers & Related Workers",1.2
+2009 ,20-24,Others,0.1
+2009 ,25-29,Managers & Administrators (Including Working Proprietors),7.8
+2009 ,25-29,Professionals,35.3
+2009 ,25-29,Associate Professionals & Technicians,26.7
+2009 ,25-29,Clerical Support Workers,19.8
+2009 ,25-29,Service & Sales Workers,9.6
+2009 ,25-29,Craftsmen & Related Trade Workers,0.3
+2009 ,25-29,Plant & Machine Operators & Assemblers,0.9
+2009 ,25-29,"Cleaners, Labourers & Related Workers",1.1
+2009 ,25-29,Others,0.0
+2009 ,30-34,Managers & Administrators (Including Working Proprietors),17.1
+2009 ,30-34,Professionals,35.0
+2009 ,30-34,Associate Professionals & Technicians,24.5
+2009 ,30-34,Clerical Support Workers,21.9
+2009 ,30-34,Service & Sales Workers,9.6
+2009 ,30-34,Craftsmen & Related Trade Workers,0.6
+2009 ,30-34,Plant & Machine Operators & Assemblers,2.0
+2009 ,30-34,"Cleaners, Labourers & Related Workers",2.1
+2009 ,30-34,Others,0.2
+2009 ,35-39,Managers & Administrators (Including Working Proprietors),19.7
+2009 ,35-39,Professionals,27.7
+2009 ,35-39,Associate Professionals & Technicians,26.3
+2009 ,35-39,Clerical Support Workers,26.4
+2009 ,35-39,Service & Sales Workers,11.9
+2009 ,35-39,Craftsmen & Related Trade Workers,1.1
+2009 ,35-39,Plant & Machine Operators & Assemblers,4.0
+2009 ,35-39,"Cleaners, Labourers & Related Workers",3.6
+2009 ,35-39,Others,0.1
+2009 ,40-44,Managers & Administrators (Including Working Proprietors),18.3
+2009 ,40-44,Professionals,14.9
+2009 ,40-44,Associate Professionals & Technicians,19.8
+2009 ,40-44,Clerical Support Workers,25.7
+2009 ,40-44,Service & Sales Workers,14.3
+2009 ,40-44,Craftsmen & Related Trade Workers,1.4
+2009 ,40-44,Plant & Machine Operators & Assemblers,4.8
+2009 ,40-44,"Cleaners, Labourers & Related Workers",6.9
+2009 ,40-44,Others,0.1
+2009 ,45-49,Managers & Administrators (Including Working Proprietors),13.8
+2009 ,45-49,Professionals,10.4
+2009 ,45-49,Associate Professionals & Technicians,17.6
+2009 ,45-49,Clerical Support Workers,25.9
+2009 ,45-49,Service & Sales Workers,16.1
+2009 ,45-49,Craftsmen & Related Trade Workers,1.7
+2009 ,45-49,Plant & Machine Operators & Assemblers,5.1
+2009 ,45-49,"Cleaners, Labourers & Related Workers",12.3
+2009 ,45-49,Others,0.2
+2009 ,50-54,Managers & Administrators (Including Working Proprietors),9.6
+2009 ,50-54,Professionals,7.7
+2009 ,50-54,Associate Professionals & Technicians,12.7
+2009 ,50-54,Clerical Support Workers,22.5
+2009 ,50-54,Service & Sales Workers,14.8
+2009 ,50-54,Craftsmen & Related Trade Workers,1.9
+2009 ,50-54,Plant & Machine Operators & Assemblers,5.4
+2009 ,50-54,"Cleaners, Labourers & Related Workers",14.9
+2009 ,50-54,Others,0.1
+2009 ,55-59,Managers & Administrators (Including Working Proprietors),6.5
+2009 ,55-59,Professionals,4.1
+2009 ,55-59,Associate Professionals & Technicians,4.6
+2009 ,55-59,Clerical Support Workers,10.9
+2009 ,55-59,Service & Sales Workers,9.7
+2009 ,55-59,Craftsmen & Related Trade Workers,1.4
+2009 ,55-59,Plant & Machine Operators & Assemblers,3.5
+2009 ,55-59,"Cleaners, Labourers & Related Workers",13.6
+2009 ,55-59,Others,0.0
+2009 ,60-64,Managers & Administrators (Including Working Proprietors),2.0
+2009 ,60-64,Professionals,2.3
+2009 ,60-64,Associate Professionals & Technicians,2.1
+2009 ,60-64,Clerical Support Workers,4.4
+2009 ,60-64,Service & Sales Workers,6.4
+2009 ,60-64,Craftsmen & Related Trade Workers,0.7
+2009 ,60-64,Plant & Machine Operators & Assemblers,1.3
+2009 ,60-64,"Cleaners, Labourers & Related Workers",10.4
+2009 ,60-64,Others,0.0
+2009 ,65+,Managers & Administrators (Including Working Proprietors),0.9
+2009 ,65+,Professionals,1.0
+2009 ,65+,Associate Professionals & Technicians,0.8
+2009 ,65+,Clerical Support Workers,1.1
+2009 ,65+,Service & Sales Workers,3.4
+2009 ,65+,Craftsmen & Related Trade Workers,0.2
+2009 ,65+,Plant & Machine Operators & Assemblers,0.5
+2009 ,65+,"Cleaners, Labourers & Related Workers",9.3
+2009 ,65+,Others,0.0
+2008 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2008 ,15-19,Professionals,0.3
+2008 ,15-19,Associate Professionals & Technicians,1.9
+2008 ,15-19,Clerical Support Workers,4.6
+2008 ,15-19,Service & Sales Workers,5.1
+2008 ,15-19,Craftsmen & Related Trade Workers,0.0
+2008 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2008 ,15-19,"Cleaners, Labourers & Related Workers",0.5
+2008 ,15-19,Others,0.0
+2008 ,20-24,Managers & Administrators (Including Working Proprietors),1.0
+2008 ,20-24,Professionals,13.8
+2008 ,20-24,Associate Professionals & Technicians,15.4
+2008 ,20-24,Clerical Support Workers,19.8
+2008 ,20-24,Service & Sales Workers,11.4
+2008 ,20-24,Craftsmen & Related Trade Workers,0.2
+2008 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2008 ,20-24,"Cleaners, Labourers & Related Workers",0.9
+2008 ,20-24,Others,0.1
+2008 ,25-29,Managers & Administrators (Including Working Proprietors),7.7
+2008 ,25-29,Professionals,33.7
+2008 ,25-29,Associate Professionals & Technicians,26.3
+2008 ,25-29,Clerical Support Workers,20.5
+2008 ,25-29,Service & Sales Workers,9.3
+2008 ,25-29,Craftsmen & Related Trade Workers,0.1
+2008 ,25-29,Plant & Machine Operators & Assemblers,1.0
+2008 ,25-29,"Cleaners, Labourers & Related Workers",0.9
+2008 ,25-29,Others,0.4
+2008 ,30-34,Managers & Administrators (Including Working Proprietors),18.1
+2008 ,30-34,Professionals,32.4
+2008 ,30-34,Associate Professionals & Technicians,26.6
+2008 ,30-34,Clerical Support Workers,21.8
+2008 ,30-34,Service & Sales Workers,10.9
+2008 ,30-34,Craftsmen & Related Trade Workers,0.5
+2008 ,30-34,Plant & Machine Operators & Assemblers,2.2
+2008 ,30-34,"Cleaners, Labourers & Related Workers",1.5
+2008 ,30-34,Others,0.3
+2008 ,35-39,Managers & Administrators (Including Working Proprietors),19.5
+2008 ,35-39,Professionals,25.2
+2008 ,35-39,Associate Professionals & Technicians,23.6
+2008 ,35-39,Clerical Support Workers,26.3
+2008 ,35-39,Service & Sales Workers,12.1
+2008 ,35-39,Craftsmen & Related Trade Workers,1.2
+2008 ,35-39,Plant & Machine Operators & Assemblers,3.5
+2008 ,35-39,"Cleaners, Labourers & Related Workers",3.4
+2008 ,35-39,Others,0.2
+2008 ,40-44,Managers & Administrators (Including Working Proprietors),16.5
+2008 ,40-44,Professionals,15.1
+2008 ,40-44,Associate Professionals & Technicians,19.4
+2008 ,40-44,Clerical Support Workers,27.8
+2008 ,40-44,Service & Sales Workers,15.4
+2008 ,40-44,Craftsmen & Related Trade Workers,1.0
+2008 ,40-44,Plant & Machine Operators & Assemblers,5.2
+2008 ,40-44,"Cleaners, Labourers & Related Workers",7.8
+2008 ,40-44,Others,0.0
+2008 ,45-49,Managers & Administrators (Including Working Proprietors),14.8
+2008 ,45-49,Professionals,12.1
+2008 ,45-49,Associate Professionals & Technicians,15.0
+2008 ,45-49,Clerical Support Workers,24.1
+2008 ,45-49,Service & Sales Workers,16.8
+2008 ,45-49,Craftsmen & Related Trade Workers,2.3
+2008 ,45-49,Plant & Machine Operators & Assemblers,5.8
+2008 ,45-49,"Cleaners, Labourers & Related Workers",12.6
+2008 ,45-49,Others,0.2
+2008 ,50-54,Managers & Administrators (Including Working Proprietors),9.9
+2008 ,50-54,Professionals,7.9
+2008 ,50-54,Associate Professionals & Technicians,10.2
+2008 ,50-54,Clerical Support Workers,20.0
+2008 ,50-54,Service & Sales Workers,15.1
+2008 ,50-54,Craftsmen & Related Trade Workers,2.0
+2008 ,50-54,Plant & Machine Operators & Assemblers,6.5
+2008 ,50-54,"Cleaners, Labourers & Related Workers",15.9
+2008 ,50-54,Others,0.0
+2008 ,55-59,Managers & Administrators (Including Working Proprietors),4.7
+2008 ,55-59,Professionals,4.3
+2008 ,55-59,Associate Professionals & Technicians,4.9
+2008 ,55-59,Clerical Support Workers,9.4
+2008 ,55-59,Service & Sales Workers,9.8
+2008 ,55-59,Craftsmen & Related Trade Workers,1.2
+2008 ,55-59,Plant & Machine Operators & Assemblers,4.1
+2008 ,55-59,"Cleaners, Labourers & Related Workers",14.1
+2008 ,55-59,Others,0.0
+2008 ,60-64,Managers & Administrators (Including Working Proprietors),2.0
+2008 ,60-64,Professionals,1.3
+2008 ,60-64,Associate Professionals & Technicians,2.4
+2008 ,60-64,Clerical Support Workers,4.2
+2008 ,60-64,Service & Sales Workers,5.1
+2008 ,60-64,Craftsmen & Related Trade Workers,0.8
+2008 ,60-64,Plant & Machine Operators & Assemblers,1.4
+2008 ,60-64,"Cleaners, Labourers & Related Workers",8.5
+2008 ,60-64,Others,0.0
+2008 ,65+,Managers & Administrators (Including Working Proprietors),0.9
+2008 ,65+,Professionals,0.8
+2008 ,65+,Associate Professionals & Technicians,0.7
+2008 ,65+,Clerical Support Workers,0.8
+2008 ,65+,Service & Sales Workers,3.2
+2008 ,65+,Craftsmen & Related Trade Workers,0.2
+2008 ,65+,Plant & Machine Operators & Assemblers,0.7
+2008 ,65+,"Cleaners, Labourers & Related Workers",8.6
+2008 ,65+,Others,0.0
+2007 ,15-19,Managers & Administrators (Including Working Proprietors),0.1
+2007 ,15-19,Professionals,0.4
+2007 ,15-19,Associate Professionals & Technicians,1.7
+2007 ,15-19,Clerical Support Workers,3.4
+2007 ,15-19,Service & Sales Workers,6.9
+2007 ,15-19,Craftsmen & Related Trade Workers,0.0
+2007 ,15-19,Plant & Machine Operators & Assemblers,0.1
+2007 ,15-19,"Cleaners, Labourers & Related Workers",0.4
+2007 ,15-19,Others,0.0
+2007 ,20-24,Managers & Administrators (Including Working Proprietors),1.6
+2007 ,20-24,Professionals,12.0
+2007 ,20-24,Associate Professionals & Technicians,14.0
+2007 ,20-24,Clerical Support Workers,19.6
+2007 ,20-24,Service & Sales Workers,11.0
+2007 ,20-24,Craftsmen & Related Trade Workers,0.4
+2007 ,20-24,Plant & Machine Operators & Assemblers,0.5
+2007 ,20-24,"Cleaners, Labourers & Related Workers",0.9
+2007 ,20-24,Others,0.2
+2007 ,25-29,Managers & Administrators (Including Working Proprietors),8.8
+2007 ,25-29,Professionals,31.8
+2007 ,25-29,Associate Professionals & Technicians,26.1
+2007 ,25-29,Clerical Support Workers,21.5
+2007 ,25-29,Service & Sales Workers,9.7
+2007 ,25-29,Craftsmen & Related Trade Workers,0.4
+2007 ,25-29,Plant & Machine Operators & Assemblers,1.9
+2007 ,25-29,"Cleaners, Labourers & Related Workers",1.1
+2007 ,25-29,Others,0.5
+2007 ,30-34,Managers & Administrators (Including Working Proprietors),14.9
+2007 ,30-34,Professionals,30.0
+2007 ,30-34,Associate Professionals & Technicians,26.7
+2007 ,30-34,Clerical Support Workers,25.5
+2007 ,30-34,Service & Sales Workers,8.8
+2007 ,30-34,Craftsmen & Related Trade Workers,0.6
+2007 ,30-34,Plant & Machine Operators & Assemblers,3.1
+2007 ,30-34,"Cleaners, Labourers & Related Workers",1.5
+2007 ,30-34,Others,0.1
+2007 ,35-39,Managers & Administrators (Including Working Proprietors),17.1
+2007 ,35-39,Professionals,21.7
+2007 ,35-39,Associate Professionals & Technicians,20.0
+2007 ,35-39,Clerical Support Workers,24.3
+2007 ,35-39,Service & Sales Workers,10.8
+2007 ,35-39,Craftsmen & Related Trade Workers,0.7
+2007 ,35-39,Plant & Machine Operators & Assemblers,4.6
+2007 ,35-39,"Cleaners, Labourers & Related Workers",4.1
+2007 ,35-39,Others,0.2
+2007 ,40-44,Managers & Administrators (Including Working Proprietors),15.8
+2007 ,40-44,Professionals,15.3
+2007 ,40-44,Associate Professionals & Technicians,16.9
+2007 ,40-44,Clerical Support Workers,25.6
+2007 ,40-44,Service & Sales Workers,15.6
+2007 ,40-44,Craftsmen & Related Trade Workers,1.7
+2007 ,40-44,Plant & Machine Operators & Assemblers,6.0
+2007 ,40-44,"Cleaners, Labourers & Related Workers",7.7
+2007 ,40-44,Others,0.2
+2007 ,45-49,Managers & Administrators (Including Working Proprietors),11.9
+2007 ,45-49,Professionals,11.3
+2007 ,45-49,Associate Professionals & Technicians,15.1
+2007 ,45-49,Clerical Support Workers,25.9
+2007 ,45-49,Service & Sales Workers,16.8
+2007 ,45-49,Craftsmen & Related Trade Workers,2.2
+2007 ,45-49,Plant & Machine Operators & Assemblers,6.2
+2007 ,45-49,"Cleaners, Labourers & Related Workers",13.4
+2007 ,45-49,Others,0.2
+2007 ,50-54,Managers & Administrators (Including Working Proprietors),8.6
+2007 ,50-54,Professionals,7.6
+2007 ,50-54,Associate Professionals & Technicians,10.0
+2007 ,50-54,Clerical Support Workers,17.8
+2007 ,50-54,Service & Sales Workers,15.3
+2007 ,50-54,Craftsmen & Related Trade Workers,1.5
+2007 ,50-54,Plant & Machine Operators & Assemblers,6.3
+2007 ,50-54,"Cleaners, Labourers & Related Workers",14.8
+2007 ,50-54,Others,0.1
+2007 ,55-59,Managers & Administrators (Including Working Proprietors),4.0
+2007 ,55-59,Professionals,4.8
+2007 ,55-59,Associate Professionals & Technicians,5.1
+2007 ,55-59,Clerical Support Workers,9.6
+2007 ,55-59,Service & Sales Workers,9.1
+2007 ,55-59,Craftsmen & Related Trade Workers,1.4
+2007 ,55-59,Plant & Machine Operators & Assemblers,2.8
+2007 ,55-59,"Cleaners, Labourers & Related Workers",13.8
+2007 ,55-59,Others,0.0
+2007 ,60-64,Managers & Administrators (Including Working Proprietors),1.7
+2007 ,60-64,Professionals,1.7
+2007 ,60-64,Associate Professionals & Technicians,1.8
+2007 ,60-64,Clerical Support Workers,2.4
+2007 ,60-64,Service & Sales Workers,3.5
+2007 ,60-64,Craftsmen & Related Trade Workers,0.7
+2007 ,60-64,Plant & Machine Operators & Assemblers,1.2
+2007 ,60-64,"Cleaners, Labourers & Related Workers",8.0
+2007 ,60-64,Others,0.0
+2007 ,65+,Managers & Administrators (Including Working Proprietors),0.9
+2007 ,65+,Professionals,0.6
+2007 ,65+,Associate Professionals & Technicians,0.4
+2007 ,65+,Clerical Support Workers,0.8
+2007 ,65+,Service & Sales Workers,3.1
+2007 ,65+,Craftsmen & Related Trade Workers,0.1
+2007 ,65+,Plant & Machine Operators & Assemblers,0.7
+2007 ,65+,"Cleaners, Labourers & Related Workers",7.4
+2007 ,65+,Others,0.0
+2005 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2005 ,15-19,Professionals,0.1
+2005 ,15-19,Associate Professionals & Technicians,0.7
+2005 ,15-19,Clerical Support Workers,2.0
+2005 ,15-19,Service & Sales Workers,4.3
+2005 ,15-19,Craftsmen & Related Trade Workers,0.1
+2005 ,15-19,Plant & Machine Operators & Assemblers,0.4
+2005 ,15-19,"Cleaners, Labourers & Related Workers",0.3
+2005 ,15-19,Others,0.0
+2005 ,20-24,Managers & Administrators (Including Working Proprietors),0.9
+2005 ,20-24,Professionals,11.4
+2005 ,20-24,Associate Professionals & Technicians,14.8
+2005 ,20-24,Clerical Support Workers,16.5
+2005 ,20-24,Service & Sales Workers,11.3
+2005 ,20-24,Craftsmen & Related Trade Workers,0.2
+2005 ,20-24,Plant & Machine Operators & Assemblers,1.1
+2005 ,20-24,"Cleaners, Labourers & Related Workers",0.5
+2005 ,20-24,Others,0.3
+2005 ,25-29,Managers & Administrators (Including Working Proprietors),5.6
+2005 ,25-29,Professionals,32.8
+2005 ,25-29,Associate Professionals & Technicians,25.5
+2005 ,25-29,Clerical Support Workers,21.5
+2005 ,25-29,Service & Sales Workers,11.7
+2005 ,25-29,Craftsmen & Related Trade Workers,0.4
+2005 ,25-29,Plant & Machine Operators & Assemblers,2.2
+2005 ,25-29,"Cleaners, Labourers & Related Workers",0.8
+2005 ,25-29,Others,0.5
+2005 ,30-34,Managers & Administrators (Including Working Proprietors),12.9
+2005 ,30-34,Professionals,27.9
+2005 ,30-34,Associate Professionals & Technicians,24.5
+2005 ,30-34,Clerical Support Workers,26.9
+2005 ,30-34,Service & Sales Workers,12.2
+2005 ,30-34,Craftsmen & Related Trade Workers,0.9
+2005 ,30-34,Plant & Machine Operators & Assemblers,4.4
+2005 ,30-34,"Cleaners, Labourers & Related Workers",1.2
+2005 ,30-34,Others,0.3
+2005 ,35-39,Managers & Administrators (Including Working Proprietors),14.6
+2005 ,35-39,Professionals,17.4
+2005 ,35-39,Associate Professionals & Technicians,18.0
+2005 ,35-39,Clerical Support Workers,27.3
+2005 ,35-39,Service & Sales Workers,14.6
+2005 ,35-39,Craftsmen & Related Trade Workers,1.0
+2005 ,35-39,Plant & Machine Operators & Assemblers,6.3
+2005 ,35-39,"Cleaners, Labourers & Related Workers",3.0
+2005 ,35-39,Others,0.2
+2005 ,40-44,Managers & Administrators (Including Working Proprietors),13.3
+2005 ,40-44,Professionals,11.8
+2005 ,40-44,Associate Professionals & Technicians,13.8
+2005 ,40-44,Clerical Support Workers,25.8
+2005 ,40-44,Service & Sales Workers,17.5
+2005 ,40-44,Craftsmen & Related Trade Workers,2.0
+2005 ,40-44,Plant & Machine Operators & Assemblers,7.6
+2005 ,40-44,"Cleaners, Labourers & Related Workers",5.1
+2005 ,40-44,Others,0.3
+2005 ,45-49,Managers & Administrators (Including Working Proprietors),9.7
+2005 ,45-49,Professionals,7.7
+2005 ,45-49,Associate Professionals & Technicians,10.8
+2005 ,45-49,Clerical Support Workers,23.2
+2005 ,45-49,Service & Sales Workers,17.8
+2005 ,45-49,Craftsmen & Related Trade Workers,1.6
+2005 ,45-49,Plant & Machine Operators & Assemblers,7.6
+2005 ,45-49,"Cleaners, Labourers & Related Workers",8.9
+2005 ,45-49,Others,0.4
+2005 ,50-54,Managers & Administrators (Including Working Proprietors),6.3
+2005 ,50-54,Professionals,4.8
+2005 ,50-54,Associate Professionals & Technicians,7.2
+2005 ,50-54,Clerical Support Workers,14.1
+2005 ,50-54,Service & Sales Workers,15.1
+2005 ,50-54,Craftsmen & Related Trade Workers,1.5
+2005 ,50-54,Plant & Machine Operators & Assemblers,5.8
+2005 ,50-54,"Cleaners, Labourers & Related Workers",10.3
+2005 ,50-54,Others,0.1
+2005 ,55-59,Managers & Administrators (Including Working Proprietors),3.1
+2005 ,55-59,Professionals,2.8
+2005 ,55-59,Associate Professionals & Technicians,3.3
+2005 ,55-59,Clerical Support Workers,6.7
+2005 ,55-59,Service & Sales Workers,9.0
+2005 ,55-59,Craftsmen & Related Trade Workers,1.0
+2005 ,55-59,Plant & Machine Operators & Assemblers,2.5
+2005 ,55-59,"Cleaners, Labourers & Related Workers",9.3
+2005 ,55-59,Others,0.1
+2005 ,60-64,Managers & Administrators (Including Working Proprietors),0.8
+2005 ,60-64,Professionals,0.5
+2005 ,60-64,Associate Professionals & Technicians,1.1
+2005 ,60-64,Clerical Support Workers,1.0
+2005 ,60-64,Service & Sales Workers,2.9
+2005 ,60-64,Craftsmen & Related Trade Workers,0.3
+2005 ,60-64,Plant & Machine Operators & Assemblers,0.8
+2005 ,60-64,"Cleaners, Labourers & Related Workers",4.8
+2005 ,60-64,Others,0.0
+2005 ,65+,Managers & Administrators (Including Working Proprietors),0.6
+2005 ,65+,Professionals,0.3
+2005 ,65+,Associate Professionals & Technicians,0.5
+2005 ,65+,Clerical Support Workers,0.4
+2005 ,65+,Service & Sales Workers,2.0
+2005 ,65+,Craftsmen & Related Trade Workers,0.2
+2005 ,65+,Plant & Machine Operators & Assemblers,0.3
+2005 ,65+,"Cleaners, Labourers & Related Workers",3.8
+2005 ,65+,Others,0.1
+2004 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2004 ,15-19,Professionals,0.2
+2004 ,15-19,Associate Professionals & Technicians,0.9
+2004 ,15-19,Clerical Support Workers,2.6
+2004 ,15-19,Service & Sales Workers,6.1
+2004 ,15-19,Craftsmen & Related Trade Workers,0.1
+2004 ,15-19,Plant & Machine Operators & Assemblers,0.6
+2004 ,15-19,"Cleaners, Labourers & Related Workers",0.5
+2004 ,15-19,Others,0.0
+2004 ,20-24,Managers & Administrators (Including Working Proprietors),0.8
+2004 ,20-24,Professionals,10.9
+2004 ,20-24,Associate Professionals & Technicians,14.0
+2004 ,20-24,Clerical Support Workers,18.9
+2004 ,20-24,Service & Sales Workers,10.5
+2004 ,20-24,Craftsmen & Related Trade Workers,0.1
+2004 ,20-24,Plant & Machine Operators & Assemblers,1.2
+2004 ,20-24,"Cleaners, Labourers & Related Workers",0.5
+2004 ,20-24,Others,0.3
+2004 ,25-29,Managers & Administrators (Including Working Proprietors),5.8
+2004 ,25-29,Professionals,26.5
+2004 ,25-29,Associate Professionals & Technicians,25.4
+2004 ,25-29,Clerical Support Workers,26.0
+2004 ,25-29,Service & Sales Workers,8.9
+2004 ,25-29,Craftsmen & Related Trade Workers,0.4
+2004 ,25-29,Plant & Machine Operators & Assemblers,2.2
+2004 ,25-29,"Cleaners, Labourers & Related Workers",1.0
+2004 ,25-29,Others,0.7
+2004 ,30-34,Managers & Administrators (Including Working Proprietors),12.8
+2004 ,30-34,Professionals,22.7
+2004 ,30-34,Associate Professionals & Technicians,24.2
+2004 ,30-34,Clerical Support Workers,27.4
+2004 ,30-34,Service & Sales Workers,11.0
+2004 ,30-34,Craftsmen & Related Trade Workers,0.9
+2004 ,30-34,Plant & Machine Operators & Assemblers,4.7
+2004 ,30-34,"Cleaners, Labourers & Related Workers",1.7
+2004 ,30-34,Others,0.3
+2004 ,35-39,Managers & Administrators (Including Working Proprietors),13.8
+2004 ,35-39,Professionals,15.5
+2004 ,35-39,Associate Professionals & Technicians,18.1
+2004 ,35-39,Clerical Support Workers,28.3
+2004 ,35-39,Service & Sales Workers,9.9
+2004 ,35-39,Craftsmen & Related Trade Workers,1.0
+2004 ,35-39,Plant & Machine Operators & Assemblers,6.4
+2004 ,35-39,"Cleaners, Labourers & Related Workers",4.1
+2004 ,35-39,Others,0.0
+2004 ,40-44,Managers & Administrators (Including Working Proprietors),13.5
+2004 ,40-44,Professionals,11.8
+2004 ,40-44,Associate Professionals & Technicians,13.4
+2004 ,40-44,Clerical Support Workers,25.8
+2004 ,40-44,Service & Sales Workers,15.8
+2004 ,40-44,Craftsmen & Related Trade Workers,1.4
+2004 ,40-44,Plant & Machine Operators & Assemblers,7.3
+2004 ,40-44,"Cleaners, Labourers & Related Workers",7.8
+2004 ,40-44,Others,0.3
+2004 ,45-49,Managers & Administrators (Including Working Proprietors),10.1
+2004 ,45-49,Professionals,8.6
+2004 ,45-49,Associate Professionals & Technicians,11.6
+2004 ,45-49,Clerical Support Workers,21.5
+2004 ,45-49,Service & Sales Workers,14.0
+2004 ,45-49,Craftsmen & Related Trade Workers,1.1
+2004 ,45-49,Plant & Machine Operators & Assemblers,8.7
+2004 ,45-49,"Cleaners, Labourers & Related Workers",11.9
+2004 ,45-49,Others,0.1
+2004 ,50-54,Managers & Administrators (Including Working Proprietors),5.6
+2004 ,50-54,Professionals,4.5
+2004 ,50-54,Associate Professionals & Technicians,5.3
+2004 ,50-54,Clerical Support Workers,14.1
+2004 ,50-54,Service & Sales Workers,12.1
+2004 ,50-54,Craftsmen & Related Trade Workers,1.9
+2004 ,50-54,Plant & Machine Operators & Assemblers,6.8
+2004 ,50-54,"Cleaners, Labourers & Related Workers",11.8
+2004 ,50-54,Others,0.0
+2004 ,55-59,Managers & Administrators (Including Working Proprietors),2.7
+2004 ,55-59,Professionals,3.9
+2004 ,55-59,Associate Professionals & Technicians,3.0
+2004 ,55-59,Clerical Support Workers,6.1
+2004 ,55-59,Service & Sales Workers,7.5
+2004 ,55-59,Craftsmen & Related Trade Workers,0.8
+2004 ,55-59,Plant & Machine Operators & Assemblers,2.9
+2004 ,55-59,"Cleaners, Labourers & Related Workers",9.9
+2004 ,55-59,Others,0.0
+2004 ,60-64,Managers & Administrators (Including Working Proprietors),1.0
+2004 ,60-64,Professionals,0.7
+2004 ,60-64,Associate Professionals & Technicians,0.5
+2004 ,60-64,Clerical Support Workers,0.7
+2004 ,60-64,Service & Sales Workers,2.6
+2004 ,60-64,Craftsmen & Related Trade Workers,0.1
+2004 ,60-64,Plant & Machine Operators & Assemblers,0.6
+2004 ,60-64,"Cleaners, Labourers & Related Workers",5.5
+2004 ,60-64,Others,0.1
+2004 ,65+,Managers & Administrators (Including Working Proprietors),0.8
+2004 ,65+,Professionals,0.4
+2004 ,65+,Associate Professionals & Technicians,0.2
+2004 ,65+,Clerical Support Workers,0.4
+2004 ,65+,Service & Sales Workers,1.8
+2004 ,65+,Craftsmen & Related Trade Workers,0.1
+2004 ,65+,Plant & Machine Operators & Assemblers,0.1
+2004 ,65+,"Cleaners, Labourers & Related Workers",4.1
+2004 ,65+,Others,0.0
+2003 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2003 ,15-19,Professionals,0.2
+2003 ,15-19,Associate Professionals & Technicians,1.0
+2003 ,15-19,Clerical Support Workers,2.0
+2003 ,15-19,Service & Sales Workers,4.8
+2003 ,15-19,Craftsmen & Related Trade Workers,0.1
+2003 ,15-19,Plant & Machine Operators & Assemblers,0.3
+2003 ,15-19,"Cleaners, Labourers & Related Workers",0.7
+2003 ,15-19,Others,0.0
+2003 ,20-24,Managers & Administrators (Including Working Proprietors),1.1
+2003 ,20-24,Professionals,10.4
+2003 ,20-24,Associate Professionals & Technicians,13.8
+2003 ,20-24,Clerical Support Workers,17.1
+2003 ,20-24,Service & Sales Workers,10.7
+2003 ,20-24,Craftsmen & Related Trade Workers,0.2
+2003 ,20-24,Plant & Machine Operators & Assemblers,1.1
+2003 ,20-24,"Cleaners, Labourers & Related Workers",0.8
+2003 ,20-24,Others,0.3
+2003 ,25-29,Managers & Administrators (Including Working Proprietors),7.5
+2003 ,25-29,Professionals,30.3
+2003 ,25-29,Associate Professionals & Technicians,24.8
+2003 ,25-29,Clerical Support Workers,25.2
+2003 ,25-29,Service & Sales Workers,8.4
+2003 ,25-29,Craftsmen & Related Trade Workers,0.3
+2003 ,25-29,Plant & Machine Operators & Assemblers,2.5
+2003 ,25-29,"Cleaners, Labourers & Related Workers",1.3
+2003 ,25-29,Others,0.3
+2003 ,30-34,Managers & Administrators (Including Working Proprietors),12.5
+2003 ,30-34,Professionals,24.0
+2003 ,30-34,Associate Professionals & Technicians,21.4
+2003 ,30-34,Clerical Support Workers,30.6
+2003 ,30-34,Service & Sales Workers,9.9
+2003 ,30-34,Craftsmen & Related Trade Workers,0.9
+2003 ,30-34,Plant & Machine Operators & Assemblers,5.8
+2003 ,30-34,"Cleaners, Labourers & Related Workers",1.9
+2003 ,30-34,Others,0.3
+2003 ,35-39,Managers & Administrators (Including Working Proprietors),12.6
+2003 ,35-39,Professionals,15.2
+2003 ,35-39,Associate Professionals & Technicians,17.2
+2003 ,35-39,Clerical Support Workers,28.2
+2003 ,35-39,Service & Sales Workers,11.9
+2003 ,35-39,Craftsmen & Related Trade Workers,0.9
+2003 ,35-39,Plant & Machine Operators & Assemblers,6.9
+2003 ,35-39,"Cleaners, Labourers & Related Workers",4.2
+2003 ,35-39,Others,0.2
+2003 ,40-44,Managers & Administrators (Including Working Proprietors),11.0
+2003 ,40-44,Professionals,10.8
+2003 ,40-44,Associate Professionals & Technicians,14.4
+2003 ,40-44,Clerical Support Workers,25.9
+2003 ,40-44,Service & Sales Workers,12.8
+2003 ,40-44,Craftsmen & Related Trade Workers,1.8
+2003 ,40-44,Plant & Machine Operators & Assemblers,8.4
+2003 ,40-44,"Cleaners, Labourers & Related Workers",7.6
+2003 ,40-44,Others,0.1
+2003 ,45-49,Managers & Administrators (Including Working Proprietors),9.4
+2003 ,45-49,Professionals,8.2
+2003 ,45-49,Associate Professionals & Technicians,9.4
+2003 ,45-49,Clerical Support Workers,19.0
+2003 ,45-49,Service & Sales Workers,13.1
+2003 ,45-49,Craftsmen & Related Trade Workers,1.6
+2003 ,45-49,Plant & Machine Operators & Assemblers,9.0
+2003 ,45-49,"Cleaners, Labourers & Related Workers",11.4
+2003 ,45-49,Others,0.2
+2003 ,50-54,Managers & Administrators (Including Working Proprietors),5.9
+2003 ,50-54,Professionals,5.3
+2003 ,50-54,Associate Professionals & Technicians,4.8
+2003 ,50-54,Clerical Support Workers,13.4
+2003 ,50-54,Service & Sales Workers,12.4
+2003 ,50-54,Craftsmen & Related Trade Workers,1.5
+2003 ,50-54,Plant & Machine Operators & Assemblers,7.1
+2003 ,50-54,"Cleaners, Labourers & Related Workers",11.9
+2003 ,50-54,Others,0.0
+2003 ,55-59,Managers & Administrators (Including Working Proprietors),2.0
+2003 ,55-59,Professionals,3.8
+2003 ,55-59,Associate Professionals & Technicians,2.5
+2003 ,55-59,Clerical Support Workers,5.5
+2003 ,55-59,Service & Sales Workers,4.8
+2003 ,55-59,Craftsmen & Related Trade Workers,0.7
+2003 ,55-59,Plant & Machine Operators & Assemblers,2.0
+2003 ,55-59,"Cleaners, Labourers & Related Workers",8.6
+2003 ,55-59,Others,0.0
+2003 ,60-64,Managers & Administrators (Including Working Proprietors),0.7
+2003 ,60-64,Professionals,0.9
+2003 ,60-64,Associate Professionals & Technicians,0.8
+2003 ,60-64,Clerical Support Workers,1.2
+2003 ,60-64,Service & Sales Workers,2.6
+2003 ,60-64,Craftsmen & Related Trade Workers,0.2
+2003 ,60-64,Plant & Machine Operators & Assemblers,0.7
+2003 ,60-64,"Cleaners, Labourers & Related Workers",5.5
+2003 ,60-64,Others,0.0
+2003 ,65+,Managers & Administrators (Including Working Proprietors),0.6
+2003 ,65+,Professionals,0.2
+2003 ,65+,Associate Professionals & Technicians,0.4
+2003 ,65+,Clerical Support Workers,0.2
+2003 ,65+,Service & Sales Workers,1.4
+2003 ,65+,Craftsmen & Related Trade Workers,0.1
+2003 ,65+,Plant & Machine Operators & Assemblers,0.3
+2003 ,65+,"Cleaners, Labourers & Related Workers",4.4
+2003 ,65+,Others,0.0
+2002 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2002 ,15-19,Professionals,0.2
+2002 ,15-19,Associate Professionals & Technicians,0.9
+2002 ,15-19,Clerical Support Workers,2.4
+2002 ,15-19,Service & Sales Workers,4.7
+2002 ,15-19,Craftsmen & Related Trade Workers,0.1
+2002 ,15-19,Plant & Machine Operators & Assemblers,0.4
+2002 ,15-19,"Cleaners, Labourers & Related Workers",0.2
+2002 ,15-19,Others,0.1
+2002 ,20-24,Managers & Administrators (Including Working Proprietors),0.9
+2002 ,20-24,Professionals,9.9
+2002 ,20-24,Associate Professionals & Technicians,12.0
+2002 ,20-24,Clerical Support Workers,18.6
+2002 ,20-24,Service & Sales Workers,8.8
+2002 ,20-24,Craftsmen & Related Trade Workers,0.4
+2002 ,20-24,Plant & Machine Operators & Assemblers,1.1
+2002 ,20-24,"Cleaners, Labourers & Related Workers",0.5
+2002 ,20-24,Others,0.3
+2002 ,25-29,Managers & Administrators (Including Working Proprietors),6.7
+2002 ,25-29,Professionals,26.7
+2002 ,25-29,Associate Professionals & Technicians,24.6
+2002 ,25-29,Clerical Support Workers,28.1
+2002 ,25-29,Service & Sales Workers,8.5
+2002 ,25-29,Craftsmen & Related Trade Workers,0.4
+2002 ,25-29,Plant & Machine Operators & Assemblers,2.8
+2002 ,25-29,"Cleaners, Labourers & Related Workers",1.2
+2002 ,25-29,Others,0.3
+2002 ,30-34,Managers & Administrators (Including Working Proprietors),12.6
+2002 ,30-34,Professionals,23.5
+2002 ,30-34,Associate Professionals & Technicians,21.1
+2002 ,30-34,Clerical Support Workers,29.5
+2002 ,30-34,Service & Sales Workers,9.5
+2002 ,30-34,Craftsmen & Related Trade Workers,0.6
+2002 ,30-34,Plant & Machine Operators & Assemblers,5.1
+2002 ,30-34,"Cleaners, Labourers & Related Workers",2.0
+2002 ,30-34,Others,0.0
+2002 ,35-39,Managers & Administrators (Including Working Proprietors),13.2
+2002 ,35-39,Professionals,16.2
+2002 ,35-39,Associate Professionals & Technicians,15.9
+2002 ,35-39,Clerical Support Workers,26.5
+2002 ,35-39,Service & Sales Workers,11.7
+2002 ,35-39,Craftsmen & Related Trade Workers,1.2
+2002 ,35-39,Plant & Machine Operators & Assemblers,6.4
+2002 ,35-39,"Cleaners, Labourers & Related Workers",4.1
+2002 ,35-39,Others,0.2
+2002 ,40-44,Managers & Administrators (Including Working Proprietors),11.0
+2002 ,40-44,Professionals,9.9
+2002 ,40-44,Associate Professionals & Technicians,12.4
+2002 ,40-44,Clerical Support Workers,25.8
+2002 ,40-44,Service & Sales Workers,14.3
+2002 ,40-44,Craftsmen & Related Trade Workers,2.0
+2002 ,40-44,Plant & Machine Operators & Assemblers,9.3
+2002 ,40-44,"Cleaners, Labourers & Related Workers",7.3
+2002 ,40-44,Others,0.0
+2002 ,45-49,Managers & Administrators (Including Working Proprietors),8.7
+2002 ,45-49,Professionals,6.0
+2002 ,45-49,Associate Professionals & Technicians,9.4
+2002 ,45-49,Clerical Support Workers,21.1
+2002 ,45-49,Service & Sales Workers,13.2
+2002 ,45-49,Craftsmen & Related Trade Workers,1.8
+2002 ,45-49,Plant & Machine Operators & Assemblers,9.2
+2002 ,45-49,"Cleaners, Labourers & Related Workers",10.5
+2002 ,45-49,Others,0.1
+2002 ,50-54,Managers & Administrators (Including Working Proprietors),4.9
+2002 ,50-54,Professionals,5.4
+2002 ,50-54,Associate Professionals & Technicians,5.8
+2002 ,50-54,Clerical Support Workers,10.3
+2002 ,50-54,Service & Sales Workers,10.6
+2002 ,50-54,Craftsmen & Related Trade Workers,1.5
+2002 ,50-54,Plant & Machine Operators & Assemblers,6.5
+2002 ,50-54,"Cleaners, Labourers & Related Workers",11.6
+2002 ,50-54,Others,0.0
+2002 ,55-59,Managers & Administrators (Including Working Proprietors),1.8
+2002 ,55-59,Professionals,3.0
+2002 ,55-59,Associate Professionals & Technicians,2.0
+2002 ,55-59,Clerical Support Workers,4.3
+2002 ,55-59,Service & Sales Workers,6.1
+2002 ,55-59,Craftsmen & Related Trade Workers,0.7
+2002 ,55-59,Plant & Machine Operators & Assemblers,2.5
+2002 ,55-59,"Cleaners, Labourers & Related Workers",8.2
+2002 ,55-59,Others,0.0
+2002 ,60-64,Managers & Administrators (Including Working Proprietors),0.8
+2002 ,60-64,Professionals,0.9
+2002 ,60-64,Associate Professionals & Technicians,0.6
+2002 ,60-64,Clerical Support Workers,1.0
+2002 ,60-64,Service & Sales Workers,2.4
+2002 ,60-64,Craftsmen & Related Trade Workers,0.2
+2002 ,60-64,Plant & Machine Operators & Assemblers,0.8
+2002 ,60-64,"Cleaners, Labourers & Related Workers",5.4
+2002 ,60-64,Others,0.0
+2002 ,65+,Managers & Administrators (Including Working Proprietors),0.3
+2002 ,65+,Professionals,0.2
+2002 ,65+,Associate Professionals & Technicians,0.1
+2002 ,65+,Clerical Support Workers,0.4
+2002 ,65+,Service & Sales Workers,1.6
+2002 ,65+,Craftsmen & Related Trade Workers,0.1
+2002 ,65+,Plant & Machine Operators & Assemblers,0.2
+2002 ,65+,"Cleaners, Labourers & Related Workers",3.6
+2002 ,65+,Others,0.0
+2001 ,15-19,Managers & Administrators (Including Working Proprietors),0.0
+2001 ,15-19,Professionals,0.2
+2001 ,15-19,Associate Professionals & Technicians,1.3
+2001 ,15-19,Clerical Support Workers,4.5
+2001 ,15-19,Service & Sales Workers,5.1
+2001 ,15-19,Craftsmen & Related Trade Workers,0.0
+2001 ,15-19,Plant & Machine Operators & Assemblers,0.2
+2001 ,15-19,"Cleaners, Labourers & Related Workers",0.3
+2001 ,15-19,Others,0.1
+2001 ,20-24,Managers & Administrators (Including Working Proprietors),1.7
+2001 ,20-24,Professionals,12.9
+2001 ,20-24,Associate Professionals & Technicians,14.6
+2001 ,20-24,Clerical Support Workers,20.2
+2001 ,20-24,Service & Sales Workers,9.8
+2001 ,20-24,Craftsmen & Related Trade Workers,0.2
+2001 ,20-24,Plant & Machine Operators & Assemblers,1.0
+2001 ,20-24,"Cleaners, Labourers & Related Workers",0.5
+2001 ,20-24,Others,0.3
+2001 ,25-29,Managers & Administrators (Including Working Proprietors),7.4
+2001 ,25-29,Professionals,27.3
+2001 ,25-29,Associate Professionals & Technicians,24.5
+2001 ,25-29,Clerical Support Workers,31.4
+2001 ,25-29,Service & Sales Workers,8.5
+2001 ,25-29,Craftsmen & Related Trade Workers,0.5
+2001 ,25-29,Plant & Machine Operators & Assemblers,3.7
+2001 ,25-29,"Cleaners, Labourers & Related Workers",1.2
+2001 ,25-29,Others,0.3
+2001 ,30-34,Managers & Administrators (Including Working Proprietors),12.5
+2001 ,30-34,Professionals,21.2
+2001 ,30-34,Associate Professionals & Technicians,19.1
+2001 ,30-34,Clerical Support Workers,29.1
+2001 ,30-34,Service & Sales Workers,10.6
+2001 ,30-34,Craftsmen & Related Trade Workers,1.0
+2001 ,30-34,Plant & Machine Operators & Assemblers,6.0
+2001 ,30-34,"Cleaners, Labourers & Related Workers",2.1
+2001 ,30-34,Others,0.3
+2001 ,35-39,Managers & Administrators (Including Working Proprietors),12.4
+2001 ,35-39,Professionals,14.4
+2001 ,35-39,Associate Professionals & Technicians,16.3
+2001 ,35-39,Clerical Support Workers,27.7
+2001 ,35-39,Service & Sales Workers,13.4
+2001 ,35-39,Craftsmen & Related Trade Workers,0.9
+2001 ,35-39,Plant & Machine Operators & Assemblers,7.1
+2001 ,35-39,"Cleaners, Labourers & Related Workers",5.4
+2001 ,35-39,Others,0.1
+2001 ,40-44,Managers & Administrators (Including Working Proprietors),10.6
+2001 ,40-44,Professionals,10.5
+2001 ,40-44,Associate Professionals & Technicians,12.1
+2001 ,40-44,Clerical Support Workers,26.8
+2001 ,40-44,Service & Sales Workers,14.3
+2001 ,40-44,Craftsmen & Related Trade Workers,1.7
+2001 ,40-44,Plant & Machine Operators & Assemblers,9.2
+2001 ,40-44,"Cleaners, Labourers & Related Workers",8.3
+2001 ,40-44,Others,0.1
+2001 ,45-49,Managers & Administrators (Including Working Proprietors),7.6
+2001 ,45-49,Professionals,6.4
+2001 ,45-49,Associate Professionals & Technicians,10.5
+2001 ,45-49,Clerical Support Workers,17.4
+2001 ,45-49,Service & Sales Workers,15.1
+2001 ,45-49,Craftsmen & Related Trade Workers,1.5
+2001 ,45-49,Plant & Machine Operators & Assemblers,9.1
+2001 ,45-49,"Cleaners, Labourers & Related Workers",9.9
+2001 ,45-49,Others,0.2
+2001 ,50-54,Managers & Administrators (Including Working Proprietors),4.1
+2001 ,50-54,Professionals,5.2
+2001 ,50-54,Associate Professionals & Technicians,5.2
+2001 ,50-54,Clerical Support Workers,10.2
+2001 ,50-54,Service & Sales Workers,10.5
+2001 ,50-54,Craftsmen & Related Trade Workers,1.2
+2001 ,50-54,Plant & Machine Operators & Assemblers,5.7
+2001 ,50-54,"Cleaners, Labourers & Related Workers",12.4
+2001 ,50-54,Others,0.1
+2001 ,55-59,Managers & Administrators (Including Working Proprietors),1.0
+2001 ,55-59,Professionals,2.8
+2001 ,55-59,Associate Professionals & Technicians,1.6
+2001 ,55-59,Clerical Support Workers,2.5
+2001 ,55-59,Service & Sales Workers,5.1
+2001 ,55-59,Craftsmen & Related Trade Workers,0.7
+2001 ,55-59,Plant & Machine Operators & Assemblers,1.9
+2001 ,55-59,"Cleaners, Labourers & Related Workers",7.2
+2001 ,55-59,Others,0.0
+2001 ,60-64,Managers & Administrators (Including Working Proprietors),0.9
+2001 ,60-64,Professionals,0.6
+2001 ,60-64,Associate Professionals & Technicians,0.6
+2001 ,60-64,Clerical Support Workers,0.9
+2001 ,60-64,Service & Sales Workers,2.5
+2001 ,60-64,Craftsmen & Related Trade Workers,0.3
+2001 ,60-64,Plant & Machine Operators & Assemblers,0.4
+2001 ,60-64,"Cleaners, Labourers & Related Workers",5.4
+2001 ,60-64,Others,0.0
+2001 ,65+,Managers & Administrators (Including Working Proprietors),0.4
+2001 ,65+,Professionals,0.3
+2001 ,65+,Associate Professionals & Technicians,0.1
+2001 ,65+,Clerical Support Workers,0.2
+2001 ,65+,Service & Sales Workers,2.2
+2001 ,65+,Craftsmen & Related Trade Workers,0.2
+2001 ,65+,Plant & Machine Operators & Assemblers,0.1
+2001 ,65+,"Cleaners, Labourers & Related Workers",3.2
+2001 ,65+,Others,0.1
+2000 ,15-19,Managers & Administrators (Including Working Proprietors),0.2
+2000 ,15-19,Professionals,0.1
+2000 ,15-19,Associate Professionals & Technicians,1.0
+2000 ,15-19,Clerical Support Workers,4.7
+2000 ,15-19,Service & Sales Workers,3.8
+2000 ,15-19,Craftsmen & Related Trade Workers,0.1
+2000 ,15-19,Plant & Machine Operators & Assemblers,0.5
+2000 ,15-19,"Cleaners, Labourers & Related Workers",0.3
+2000 ,15-19,Others,0.1
+2000 ,20-24,Managers & Administrators (Including Working Proprietors),2.0
+2000 ,20-24,Professionals,12.9
+2000 ,20-24,Associate Professionals & Technicians,15.6
+2000 ,20-24,Clerical Support Workers,19.5
+2000 ,20-24,Service & Sales Workers,7.7
+2000 ,20-24,Craftsmen & Related Trade Workers,0.3
+2000 ,20-24,Plant & Machine Operators & Assemblers,1.5
+2000 ,20-24,"Cleaners, Labourers & Related Workers",0.6
+2000 ,20-24,Others,0.6
+2000 ,25-29,Managers & Administrators (Including Working Proprietors),7.9
+2000 ,25-29,Professionals,26.4
+2000 ,25-29,Associate Professionals & Technicians,23.6
+2000 ,25-29,Clerical Support Workers,29.8
+2000 ,25-29,Service & Sales Workers,9.5
+2000 ,25-29,Craftsmen & Related Trade Workers,0.7
+2000 ,25-29,Plant & Machine Operators & Assemblers,3.9
+2000 ,25-29,"Cleaners, Labourers & Related Workers",1.1
+2000 ,25-29,Others,0.4
+2000 ,30-34,Managers & Administrators (Including Working Proprietors),11.7
+2000 ,30-34,Professionals,18.5
+2000 ,30-34,Associate Professionals & Technicians,18.7
+2000 ,30-34,Clerical Support Workers,28.2
+2000 ,30-34,Service & Sales Workers,9.8
+2000 ,30-34,Craftsmen & Related Trade Workers,1.0
+2000 ,30-34,Plant & Machine Operators & Assemblers,6.1
+2000 ,30-34,"Cleaners, Labourers & Related Workers",2.0
+2000 ,30-34,Others,0.3
+2000 ,35-39,Managers & Administrators (Including Working Proprietors),12.4
+2000 ,35-39,Professionals,11.8
+2000 ,35-39,Associate Professionals & Technicians,15.2
+2000 ,35-39,Clerical Support Workers,25.3
+2000 ,35-39,Service & Sales Workers,10.7
+2000 ,35-39,Craftsmen & Related Trade Workers,1.6
+2000 ,35-39,Plant & Machine Operators & Assemblers,8.4
+2000 ,35-39,"Cleaners, Labourers & Related Workers",3.8
+2000 ,35-39,Others,0.3
+2000 ,40-44,Managers & Administrators (Including Working Proprietors),10.7
+2000 ,40-44,Professionals,8.4
+2000 ,40-44,Associate Professionals & Technicians,11.8
+2000 ,40-44,Clerical Support Workers,22.3
+2000 ,40-44,Service & Sales Workers,12.8
+2000 ,40-44,Craftsmen & Related Trade Workers,2.0
+2000 ,40-44,Plant & Machine Operators & Assemblers,10.2
+2000 ,40-44,"Cleaners, Labourers & Related Workers",6.7
+2000 ,40-44,Others,0.4
+2000 ,45-49,Managers & Administrators (Including Working Proprietors),7.2
+2000 ,45-49,Professionals,4.9
+2000 ,45-49,Associate Professionals & Technicians,7.8
+2000 ,45-49,Clerical Support Workers,15.5
+2000 ,45-49,Service & Sales Workers,12.0
+2000 ,45-49,Craftsmen & Related Trade Workers,1.8
+2000 ,45-49,Plant & Machine Operators & Assemblers,9.8
+2000 ,45-49,"Cleaners, Labourers & Related Workers",9.7
+2000 ,45-49,Others,0.1
+2000 ,50-54,Managers & Administrators (Including Working Proprietors),4.2
+2000 ,50-54,Professionals,4.1
+2000 ,50-54,Associate Professionals & Technicians,4.5
+2000 ,50-54,Clerical Support Workers,7.8
+2000 ,50-54,Service & Sales Workers,8.9
+2000 ,50-54,Craftsmen & Related Trade Workers,1.2
+2000 ,50-54,Plant & Machine Operators & Assemblers,4.8
+2000 ,50-54,"Cleaners, Labourers & Related Workers",9.9
+2000 ,50-54,Others,0.1
+2000 ,55-59,Managers & Administrators (Including Working Proprietors),1.1
+2000 ,55-59,Professionals,1.9
+2000 ,55-59,Associate Professionals & Technicians,1.5
+2000 ,55-59,Clerical Support Workers,2.0
+2000 ,55-59,Service & Sales Workers,3.9
+2000 ,55-59,Craftsmen & Related Trade Workers,0.5
+2000 ,55-59,Plant & Machine Operators & Assemblers,1.6
+2000 ,55-59,"Cleaners, Labourers & Related Workers",6.0
+2000 ,55-59,Others,0.0
+2000 ,60-64,Managers & Administrators (Including Working Proprietors),0.6
+2000 ,60-64,Professionals,0.4
+2000 ,60-64,Associate Professionals & Technicians,0.6
+2000 ,60-64,Clerical Support Workers,0.5
+2000 ,60-64,Service & Sales Workers,1.9
+2000 ,60-64,Craftsmen & Related Trade Workers,0.2
+2000 ,60-64,Plant & Machine Operators & Assemblers,0.5
+2000 ,60-64,"Cleaners, Labourers & Related Workers",4.2
+2000 ,60-64,Others,0.0
+2000 ,65+,Managers & Administrators (Including Working Proprietors),0.5
+2000 ,65+,Professionals,0.1
+2000 ,65+,Associate Professionals & Technicians,0.1
+2000 ,65+,Clerical Support Workers,0.1
+2000 ,65+,Service & Sales Workers,1.5
+2000 ,65+,Craftsmen & Related Trade Workers,0.1
+2000 ,65+,Plant & Machine Operators & Assemblers,0.2
+2000 ,65+,"Cleaners, Labourers & Related Workers",2.8
+2000 ,65+,Others,0.0
